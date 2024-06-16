@@ -1,0 +1,3278 @@
+[
+  {
+    "delegator_address": "source1z8e2yrz76udyn7xy6ksgppl835kenj2005nj25",
+    "amount": "1515528813790"
+  },
+  {
+    "delegator_address": "source14cuae0s0yt7qu82k8d33ke32yqntenafc9zhqn",
+    "amount": "751778972220"
+  },
+  {
+    "delegator_address": "source1vgdf8l2ujxj4e0mvdcltw92vr2f0wflr4w3p85",
+    "amount": "605000000000"
+  },
+  {
+    "delegator_address": "source1w7z26sr3wekl7gx6dwr5fgxfamcvchvluv7wh5",
+    "amount": "595073402904"
+  },
+  {
+    "delegator_address": "source1hl4rz5qvs2cr59sjkcxekvrnhrc72rfhz9u0gm",
+    "amount": "463749002944"
+  },
+  {
+    "delegator_address": "source1ydzjlmv53whljzxy8eqjzf6ksz8y8zy4yk3vxj",
+    "amount": "436681567224"
+  },
+  {
+    "delegator_address": "source18tg5q67xjw6j35pjxnqpxqv9uek40mccsf2ny8",
+    "amount": "411120263422"
+  },
+  {
+    "delegator_address": "source1ug54mpujhgp588fyyywes74gm8p4wjgsdthd8m",
+    "amount": "409126140476"
+  },
+  {
+    "delegator_address": "source1y2e39lel7zjz29n35km7q7azxm8ewyv8y5a3ww",
+    "amount": "329129501712"
+  },
+  {
+    "delegator_address": "source1uq33muz05esk64pf6g82sqmwgls92lh844z256",
+    "amount": "294169396267"
+  },
+  {
+    "delegator_address": "source14w4c0m477zcwgspgk8k9vf2je8a8gx64s4ms9e",
+    "amount": "269158189825"
+  },
+  {
+    "delegator_address": "source16y4qfdnqutt6y3f8sgvey59j7raasrgkdah5yl",
+    "amount": "236466568991"
+  },
+  {
+    "delegator_address": "source1f4vxunmjde5gpsfak433tm3azeg6petj00yv2h",
+    "amount": "208128559336"
+  },
+  {
+    "delegator_address": "source12jgttwpc4m9mjza5t4r42khggk9lvs5avvs9fz",
+    "amount": "199472000000"
+  },
+  {
+    "delegator_address": "source1kd0xwguvr442rh48vcdqf0kr43rhhan32457w8",
+    "amount": "154356875060"
+  },
+  {
+    "delegator_address": "source1yvj9jhtsu3hcygsxvupj0uxqq90tumkww2037e",
+    "amount": "145600000000"
+  },
+  {
+    "delegator_address": "source1tehrqe27pja4e4wgtyzpajucjk57eppp3je3wd",
+    "amount": "144388560797"
+  },
+  {
+    "delegator_address": "source1fslrjj0axle9xv6cal4zkjcvgqac8vc8evmspx",
+    "amount": "133775689551"
+  },
+  {
+    "delegator_address": "source1x8fhsajdul8u4njx68m05hqagwc72m8pe80wnd",
+    "amount": "120786767234"
+  },
+  {
+    "delegator_address": "source1gemsr4dsrxvmpu2pgz0d3yz5em96e0qlascxt3",
+    "amount": "113181196387"
+  },
+  {
+    "delegator_address": "source1tyvh7zsaqkh820hwwkqkxfjrf08xzk5m9acp0t",
+    "amount": "105036609599"
+  },
+  {
+    "delegator_address": "source17xfpkp90waa9e3743gye6e0kemxr720erqlzre",
+    "amount": "101327054291"
+  },
+  {
+    "delegator_address": "source1ktaqdmlchv065tlt49c50ecmhqejw8ug083xt4",
+    "amount": "100984050527"
+  },
+  {
+    "delegator_address": "source1pvwussxtdv2m2cutv8atgpy40e7g947ufwlmn2",
+    "amount": "100881000000"
+  },
+  {
+    "delegator_address": "source1qtstztcwldgsx2sq05fa5zzcqg3pppeg6qk5t5",
+    "amount": "100000000000"
+  },
+  {
+    "delegator_address": "source17s6c8yrejmczjgxcnfl6x8vdrfw35wqej8degg",
+    "amount": "100000000000"
+  },
+  {
+    "delegator_address": "source12evkvep4sx53fqglg2dwau4dmlzezc6fraraz9",
+    "amount": "99865781450"
+  },
+  {
+    "delegator_address": "source1v63q6ckkym7znwmey36gzc0tzzrapckm87g4z5",
+    "amount": "87668209684"
+  },
+  {
+    "delegator_address": "source1ha24aj4etg9dnqfy058fdaj7urqtggft50yz7s",
+    "amount": "86151700284"
+  },
+  {
+    "delegator_address": "source1kr9zt834n83zkj60auqy2hexjyaxx46fd57l06",
+    "amount": "79683500000"
+  },
+  {
+    "delegator_address": "source1vwtv6ryr49usqxckhd8awk4yl6ghhfkc53yk9a",
+    "amount": "69997616860"
+  },
+  {
+    "delegator_address": "source12mrmdh0rsr76fj23044xffkfd74u54jhlqylgs",
+    "amount": "68392760136"
+  },
+  {
+    "delegator_address": "source1llxjmggmyqgqp47u3x9s24xlg5l7c65pvz7l6f",
+    "amount": "66006614400"
+  },
+  {
+    "delegator_address": "source1gfje5jjtz37psn067ddyv7nhgkuu7g9ljha7l2",
+    "amount": "60172721382"
+  },
+  {
+    "delegator_address": "source1e7332u9892v3k4mzqndsfz8kcrwhs9knutsr68",
+    "amount": "60004000000"
+  },
+  {
+    "delegator_address": "source1fkvp936my9x9t0q49rr9r8rtrqqxpxav8vnjve",
+    "amount": "56405451428"
+  },
+  {
+    "delegator_address": "source1s9t9jkqvwcwh66c4nya5vxnsntew3wrcmv5m23",
+    "amount": "53648341608"
+  },
+  {
+    "delegator_address": "source1fx96lkuv2lkvn57c47udulkhc9tn05k3wz69s4",
+    "amount": "53215583267"
+  },
+  {
+    "delegator_address": "source1amlrs57zsfe8gngvp22jah5w6uhxx4ur9tznh7",
+    "amount": "53008455317"
+  },
+  {
+    "delegator_address": "source152e4fhxqkya0r6kerrn0v64rj0zedlf0d0pxnn",
+    "amount": "50000200000"
+  },
+  {
+    "delegator_address": "source1n8tg599raknklhc6pgaa8apmpfvyejxwj6adqz",
+    "amount": "50000000000"
+  },
+  {
+    "delegator_address": "source1a7zgasrrnjaqnqgj74ma6mrqx96lfhtfdfsk0z",
+    "amount": "47522728904"
+  },
+  {
+    "delegator_address": "source1mzgkxt38n0k54dzy2teux5398d820xa0yggfqr",
+    "amount": "45917191629"
+  },
+  {
+    "delegator_address": "source1wkclqpz9ruuyq9esdw8l20k60d2qg3hj7ghea8",
+    "amount": "44049754900"
+  },
+  {
+    "delegator_address": "source1jjtsvgh37mp72kfyf24lz5hg2m7nfnrae2y9h2",
+    "amount": "40406050790"
+  },
+  {
+    "delegator_address": "source1j9fyf8mkve3hk0pa04e43q6jhp8pud8usxnx94",
+    "amount": "40403473973"
+  },
+  {
+    "delegator_address": "source1czxk68p0pkyxlrgvn09neh7k4an2hvpnsc698u",
+    "amount": "40000000000"
+  },
+  {
+    "delegator_address": "source1aj4pf08zvjcsngvw3u50dlzzge5p9vr0hf95u6",
+    "amount": "39694000000"
+  },
+  {
+    "delegator_address": "source1yuqyqyyvemh8zmler9la3fntvh3dqw76t5f9nk",
+    "amount": "37761413541"
+  },
+  {
+    "delegator_address": "source1398rmz6pt0uajdhu58ndz5qyv7j2zwu8xket6h",
+    "amount": "37640000000"
+  },
+  {
+    "delegator_address": "source13cdlev3gxtwwzdzuyltq86004rh0hvqxymenaq",
+    "amount": "36908090000"
+  },
+  {
+    "delegator_address": "source1y0qp8juxkuu97d2yxq3vye4lz5u3nxkxdru7mh",
+    "amount": "36826537290"
+  },
+  {
+    "delegator_address": "source1v3nhv9wf8yapw0h3h3lryv5t5v7876txwp2sry",
+    "amount": "36059543689"
+  },
+  {
+    "delegator_address": "source1ar5cxc60sadv0el9235h7wvrva4c9e7vlkzd7w",
+    "amount": "34882895675"
+  },
+  {
+    "delegator_address": "source1nckqhfp8k67qzvats2slqvtaf3kynz66y2rz3t",
+    "amount": "34753158837"
+  },
+  {
+    "delegator_address": "source1stvvz9vjkw9adwrwal5fqrlw2t922h3p7z9jkx",
+    "amount": "33580000000"
+  },
+  {
+    "delegator_address": "source1lvlpgwua8wsmntvragug80ldnrzh5q0v54wn58",
+    "amount": "32298000000"
+  },
+  {
+    "delegator_address": "source1cxv4vflj5n24lrzw845y03ddmsgd6fc4wz7khp",
+    "amount": "31700000000"
+  },
+  {
+    "delegator_address": "source174t9qw7jya8ju80ymy829fxzj7yqru8l8vcl7w",
+    "amount": "31021997500"
+  },
+  {
+    "delegator_address": "source1vpzlwskzcvy60lasrwa5xepztfp95vsdg6zuhw",
+    "amount": "29018014474"
+  },
+  {
+    "delegator_address": "source1qgz2q9tlw3m6e4hkx0h86lxu0qym0mgnxjd67k",
+    "amount": "28047742736"
+  },
+  {
+    "delegator_address": "source1t6g9tucu0gfwzkrqjzjcmhjjvgt8y7pgnzf3w5",
+    "amount": "26654098902"
+  },
+  {
+    "delegator_address": "source1w2hrty7nkrlqmml99lag4eu9seehd3c5m7gtpu",
+    "amount": "26588342216"
+  },
+  {
+    "delegator_address": "source142jrkuy08hnnavag48rr4tydev296xnr34nk6q",
+    "amount": "26496410402"
+  },
+  {
+    "delegator_address": "source19kk2gcxyhp9qe8nrldctdjqygevqa3hny0jxw7",
+    "amount": "26175598274"
+  },
+  {
+    "delegator_address": "source1s84s8z9qd93uja646m3c8j53my8ykt3juxgtmp",
+    "amount": "25299964956"
+  },
+  {
+    "delegator_address": "source1037w0kq7xwv87sg52qahwswsnreqng7q38w6v4",
+    "amount": "25091475027"
+  },
+  {
+    "delegator_address": "source1ylpjpga4p9amkru0x33y3d7u6dyevckc2u8fr3",
+    "amount": "25079958888"
+  },
+  {
+    "delegator_address": "source1nxd64cd6nujsnhkms7v9rahu97c2rd368fny8n",
+    "amount": "25000000000"
+  },
+  {
+    "delegator_address": "source1lttlfacjqr3vc8v0sh0kpwuh823p46qus5xz3g",
+    "amount": "25000000000"
+  },
+  {
+    "delegator_address": "source1kqf5pkp9wyd3h00g7x9mqxqfy3j27vcs0vmdfa",
+    "amount": "24420799420"
+  },
+  {
+    "delegator_address": "source1d6ec9gugdkwyqesyrgcceez44e6kvxv2uxeqjk",
+    "amount": "24008594132"
+  },
+  {
+    "delegator_address": "source1yd90pc6hvrxut49964h77vvgjj5mgdfe0v3wlg",
+    "amount": "23709495840"
+  },
+  {
+    "delegator_address": "source1u3tvjssyc2h55386pkcnnkcurv2emx6t6nr8as",
+    "amount": "23499216677"
+  },
+  {
+    "delegator_address": "source17gf6ew2agdjt8wflk27jx2w68esp9pr24xfe77",
+    "amount": "23026142918"
+  },
+  {
+    "delegator_address": "source15uqhkmavwyvevc7xdk6w7n8rlr0mxkwk9cwmvx",
+    "amount": "22690044411"
+  },
+  {
+    "delegator_address": "source195n2sm978q8aj2zslsx3a7clu8rezkck60nka6",
+    "amount": "22504008036"
+  },
+  {
+    "delegator_address": "source1e2w626tgz2sak9rk6zmrvf2jvp2xussv3ygyua",
+    "amount": "22080000000"
+  },
+  {
+    "delegator_address": "source177v49gm9d7vjav7pzvgjj0mpqgzz2yve9xq4lg",
+    "amount": "21240059077"
+  },
+  {
+    "delegator_address": "source1j4732q4gmd8dsq9hjvmnvf0zny787w93r8upyx",
+    "amount": "21080999939"
+  },
+  {
+    "delegator_address": "source1jf2n07m9hw7wavu9yt4hvyndy4gcyeyxk4u5ux",
+    "amount": "20009254059"
+  },
+  {
+    "delegator_address": "source19xzryprk8te57zv3228cju3d0dlphn5n4mluk0",
+    "amount": "20000000000"
+  },
+  {
+    "delegator_address": "source1t43nqk27wyw7c4qhnashwhk5jw5w89wntumr72",
+    "amount": "18865000000"
+  },
+  {
+    "delegator_address": "source1stwsnyctk042yqaf79huhzmc425yj6lr9f45sl",
+    "amount": "18804000000"
+  },
+  {
+    "delegator_address": "source1djrjesjy64uqzlmrr6y05c69gp55kck6ktky99",
+    "amount": "18598000000"
+  },
+  {
+    "delegator_address": "source1gqlvl2qqectkgz7uz6gkjust00m7q63tmv6he6",
+    "amount": "17937000000"
+  },
+  {
+    "delegator_address": "source1vs3drav5z7aclucz85eta40y9gk6m22sf8h8yd",
+    "amount": "17206606744"
+  },
+  {
+    "delegator_address": "source1f8k2k0dhhrdzpc3u4rwegl236v4ave4aj9hzp9",
+    "amount": "16676250959"
+  },
+  {
+    "delegator_address": "source167vm66zdstqy6uc8lx9kmn0k8z0q6rhg77zl0d",
+    "amount": "16579900000"
+  },
+  {
+    "delegator_address": "source1eymapsam3l5ymas76avez0adlvw3u293kr9vkt",
+    "amount": "16074365036"
+  },
+  {
+    "delegator_address": "source1rde3fuhlz9c07h7uxvsld2vczc2rwm642p0qq6",
+    "amount": "15306589088"
+  },
+  {
+    "delegator_address": "source1z66rkunjvan8anvcmeecgmg44rgjfnu67nyajr",
+    "amount": "15306570152"
+  },
+  {
+    "delegator_address": "source1avrzfg9jrvqkqt5yn9kpuzek5xfk2kpdweh9e6",
+    "amount": "15273715275"
+  },
+  {
+    "delegator_address": "source1m6m3jjprg555ruy9d78wtjn3jnc2cyvjjg40x8",
+    "amount": "15255785236"
+  },
+  {
+    "delegator_address": "source16ks99nwyu59rzthntdn550vwums9k9c2lc2p6d",
+    "amount": "15252714994"
+  },
+  {
+    "delegator_address": "source1j0hluf8yg5rmpra3sk3gdxcx39kxshuyy3gr7s",
+    "amount": "15249784219"
+  },
+  {
+    "delegator_address": "source17yktjgfqly6vpaur8ce00ctvalng8mesy7s0m4",
+    "amount": "15247737648"
+  },
+  {
+    "delegator_address": "source1w8ykg6ph80dwwxgu4jtn8rpq4dsxfhxrhy77vh",
+    "amount": "15243401044"
+  },
+  {
+    "delegator_address": "source1zwvyc40a57zmrquka5hg2d6v4pwkvju9kr34tf",
+    "amount": "15237415562"
+  },
+  {
+    "delegator_address": "source1ljphfjten8qmyf737qxhx7a3xuwapv70hvnye9",
+    "amount": "15233660307"
+  },
+  {
+    "delegator_address": "source1vx5zvasdrxduj4mm0nmtpwha59mkc0g76ua4jl",
+    "amount": "15224665926"
+  },
+  {
+    "delegator_address": "source14eaq2p2ptqvdy5ffd7t682u3vzaufy33485fxx",
+    "amount": "15222357831"
+  },
+  {
+    "delegator_address": "source10y3we3z5jmnf8dqla6sjnf5gug5xdn5paf8sdp",
+    "amount": "15220451825"
+  },
+  {
+    "delegator_address": "source1s0g9fg9jcrmp9lmwk60m5th3e5w22l2mj0eqk7",
+    "amount": "15206660613"
+  },
+  {
+    "delegator_address": "source1lssrqftdq37lg8dmtlj2ak9yx8z9d9829u5ylm",
+    "amount": "15174434246"
+  },
+  {
+    "delegator_address": "source1qxauw8pvg5fej2lhstdwh96ska708nm6t2vc6k",
+    "amount": "15152106008"
+  },
+  {
+    "delegator_address": "source1ut4nmmkcx4h3k56wzr55kz4fya9ukcv8k87rc3",
+    "amount": "14700000000"
+  },
+  {
+    "delegator_address": "source1zwjv45g8rqwa39gva8yp09pvzfvs32xz4xnnjg",
+    "amount": "14506769228"
+  },
+  {
+    "delegator_address": "source1qw76444u658xf99g9vkr64n05kq0gl09pxngun",
+    "amount": "14380200000"
+  },
+  {
+    "delegator_address": "source1xwm26sgjh66hjsq8c9py6wucl5re6mdzanwj9n",
+    "amount": "14249358694"
+  },
+  {
+    "delegator_address": "source1062pqrt6z6w0nsp6t25ekxmgxx9dl03jalatmk",
+    "amount": "14140304689"
+  },
+  {
+    "delegator_address": "source13k4p55ls5m6srku3z24njhcqj550hjpku7j8tt",
+    "amount": "14125130763"
+  },
+  {
+    "delegator_address": "source19f0gr2sngrk9eusthxyyp09yejw3fea9krqf73",
+    "amount": "14034000000"
+  },
+  {
+    "delegator_address": "source15kqc8q9m970rg0ssl8df2krzr3lksnfk8y9r2t",
+    "amount": "13872200000"
+  },
+  {
+    "delegator_address": "source1lsgfg6gj04mq62q7fu7p35fyp92ck2nuct6m8a",
+    "amount": "13619052991"
+  },
+  {
+    "delegator_address": "source17flrxcnwd3fqr6jmga6rg28c7q5f4gnv2jwkr0",
+    "amount": "13307605393"
+  },
+  {
+    "delegator_address": "source1hzkqj8uwaj7gf0c272gxq67e8udznkhc7mqdwd",
+    "amount": "13099944323"
+  },
+  {
+    "delegator_address": "source1sjkjnwks3tl2cpcgcma7j6s4c84yg7r5rwc86x",
+    "amount": "13081037216"
+  },
+  {
+    "delegator_address": "source1k5g4gt2n5vqx9a3u328dxq7ermmdkqgrg8h404",
+    "amount": "13056672503"
+  },
+  {
+    "delegator_address": "source12ws5n4905lsy8yzr84hf79xrv3cwxaprh0vjma",
+    "amount": "13000000000"
+  },
+  {
+    "delegator_address": "source1n9t73c9zcrrm89jrwzqcyxxsm9z568nvdncqq6",
+    "amount": "12578104255"
+  },
+  {
+    "delegator_address": "source17d7gw2m6xy20g25vda5fycrcpwwshq59kqg0pd",
+    "amount": "12549146201"
+  },
+  {
+    "delegator_address": "source1ppkenk3j9j7as062djdk7hx7ps346vsax0tl67",
+    "amount": "12500000000"
+  },
+  {
+    "delegator_address": "source1ql5d08k8tmhs6mc6pgu6k69tf5e0e6hx4acume",
+    "amount": "12322305314"
+  },
+  {
+    "delegator_address": "source14ek8x7prpmrqhvvysumqzhapl32ku7er3ns0ru",
+    "amount": "12240352189"
+  },
+  {
+    "delegator_address": "source1jrlf6r7dz4a7z57uvjpwacfj2dkuf8zn3aucc9",
+    "amount": "12078000000"
+  },
+  {
+    "delegator_address": "source157e54tt6gs32yrwhcnty9h7kuvlwvnzdmuxa2n",
+    "amount": "12000000000"
+  },
+  {
+    "delegator_address": "source1pynvf0cpaeysqkqrdd733ynuh96p43wyuh8j5v",
+    "amount": "11893271997"
+  },
+  {
+    "delegator_address": "source1wf7sx6gwptrgex3jg2fpljzs298z4gxp5etu2n",
+    "amount": "11803087116"
+  },
+  {
+    "delegator_address": "source1s7k62zu8newvalp0u9a9x8mnn4yanz8nukt7pu",
+    "amount": "11673298857"
+  },
+  {
+    "delegator_address": "source1vwqnwkq3te9e0cdrck50sgafx7z3ayrl7xmmss",
+    "amount": "11644275759"
+  },
+  {
+    "delegator_address": "source13mmjxwrgsx88hhyg74898m94af6ksv3hjktyzd",
+    "amount": "11385455478"
+  },
+  {
+    "delegator_address": "source1slhnk0gg0evt7rckduj38v6alalxvmlwcmp7ea",
+    "amount": "11183344802"
+  },
+  {
+    "delegator_address": "source1q09dnap4jzspca52gkx79nejw8m5v20qwv98gu",
+    "amount": "11062000000"
+  },
+  {
+    "delegator_address": "source1l5te07f7zh7vhhcwdce402ekpnr35q09rue6d7",
+    "amount": "11041594428"
+  },
+  {
+    "delegator_address": "source1fm60sc0xd64rsq8l89pf6hvtwwuywhy0gkneww",
+    "amount": "10993269821"
+  },
+  {
+    "delegator_address": "source14nnv9lzp0zkcfxgudmyzqtapge9k6z2ut7raxp",
+    "amount": "10729360000"
+  },
+  {
+    "delegator_address": "source1wd26spzpm098dxu6e3hcrelzsdyt49mngv8q7g",
+    "amount": "10324298290"
+  },
+  {
+    "delegator_address": "source1dxq2es0p05n69tc79ay3n9n7pcwxwuxp0wfc58",
+    "amount": "10244440923"
+  },
+  {
+    "delegator_address": "source1ukmeng3uwvjsktjluchsu8et754lrl7z7nwlgq",
+    "amount": "10194943304"
+  },
+  {
+    "delegator_address": "source16w748zjxrzy5fj2suwqzx8wtrj5dy35dujkhsf",
+    "amount": "10058178672"
+  },
+  {
+    "delegator_address": "source1guag925v0e5unflx3hrq2x0uxyf35tsgj6narw",
+    "amount": "10000000000"
+  },
+  {
+    "delegator_address": "source12v5exrg3rdysw7h4jwj3pj44reajj75lg95ecq",
+    "amount": "10000000000"
+  },
+  {
+    "delegator_address": "source1tpejj23pk69m9mzmrejnqsqdfzx7k0yr48tpkl",
+    "amount": "9901620375"
+  },
+  {
+    "delegator_address": "source1hagdvsuu6hkhuhlj5petv2zgg0q36xux30nvf7",
+    "amount": "9873980782"
+  },
+  {
+    "delegator_address": "source10pcrgpmplw9tu64lz6w92dpzn7qgtg96z8ckqk",
+    "amount": "9764657582"
+  },
+  {
+    "delegator_address": "source1nhmm3erpkwt6u9qt8jgas24t900ryu9ymfqv4q",
+    "amount": "9332751262"
+  },
+  {
+    "delegator_address": "source103h3z4pxwk7787pr8k638gs5nlmyt6z3s7934g",
+    "amount": "9252395334"
+  },
+  {
+    "delegator_address": "source15znl42w4ttnf68mm3gd33rg0mzrtscvq8v2j3w",
+    "amount": "9200000000"
+  },
+  {
+    "delegator_address": "source1ussaekhpxwd6uwt6ejstp7y5remezg3md3xumm",
+    "amount": "9193816689"
+  },
+  {
+    "delegator_address": "source1574xa6yhuvzhzz2330j3dx9ags5vp8vn63amh0",
+    "amount": "8956078028"
+  },
+  {
+    "delegator_address": "source1nu06gr0dh3carumcyrglpcj8lzs9put3zc8lzu",
+    "amount": "8562269160"
+  },
+  {
+    "delegator_address": "source1udsx0m6st7nm7rynmu8q8nf0wcuzctkyz755y2",
+    "amount": "8500000000"
+  },
+  {
+    "delegator_address": "source1hf3j3h8p8gmlxqa6e7ewca4cw3gemme3uk7757",
+    "amount": "8110000000"
+  },
+  {
+    "delegator_address": "source1x96aates6qse60cklhflg895fh4e88h7xugeae",
+    "amount": "7990000000"
+  },
+  {
+    "delegator_address": "source1fggqykpqq0lw3uu4vyu54eefqlctvdpu932fmk",
+    "amount": "7990000000"
+  },
+  {
+    "delegator_address": "source1yu3u7xguyn79xp4h08wc9za6k5zes3dz7n4huj",
+    "amount": "7925433040"
+  },
+  {
+    "delegator_address": "source1m0yn0d6m33cphmuua3xcte053p4malpwkxl0xz",
+    "amount": "7670959883"
+  },
+  {
+    "delegator_address": "source1dwkcyrzzpt5dvqm9eyhygz7p52u7ce9hea0wjk",
+    "amount": "7634366724"
+  },
+  {
+    "delegator_address": "source1lt58nmdc3lqy2ejvxc7l4wly2szr3qzmdmutx9",
+    "amount": "7480924221"
+  },
+  {
+    "delegator_address": "source16xex3nzsja9ja3qjfuedn9xexdcume9vyl7fff",
+    "amount": "7320799697"
+  },
+  {
+    "delegator_address": "source1ftl657efay0j2mz5dyuc66xt42apdz6f7gvh4z",
+    "amount": "7283104676"
+  },
+  {
+    "delegator_address": "source1r2sklystjnwm39xtthxn8p23s4agal7mk39n03",
+    "amount": "7273000000"
+  },
+  {
+    "delegator_address": "source1rxg6dde5u5n4yvl5urr8tdlysf2f3r2h9rkwpz",
+    "amount": "7270000000"
+  },
+  {
+    "delegator_address": "source1rtfn9d4q52ul8kujkju88fsug7ueuf5v9gkj3v",
+    "amount": "7178413980"
+  },
+  {
+    "delegator_address": "source1gqfag3meeew6nf5c4xnajpjxm5crcwzh8gqwqm",
+    "amount": "6835151352"
+  },
+  {
+    "delegator_address": "source1cxyjsjj7qjkh9gearccn563hwujrqdewvjwwvm",
+    "amount": "6758752670"
+  },
+  {
+    "delegator_address": "source1cccuhn0slxng278khwp662y8wapfzteswczqyj",
+    "amount": "6691110352"
+  },
+  {
+    "delegator_address": "source1f9z23sv7l42uequk4p03egyftl59f2vuz3x69u",
+    "amount": "6682001511"
+  },
+  {
+    "delegator_address": "source1zjl72x7q37atfs4de5jj288krkcrpekkjkge0d",
+    "amount": "6670321373"
+  },
+  {
+    "delegator_address": "source1ajdrr8w9wkxpufswdswynjwm5kxfn8wxq8ue2f",
+    "amount": "6665039410"
+  },
+  {
+    "delegator_address": "source1cgl8kktte27xu7kg730qlf7tfnzu4shvlqveat",
+    "amount": "6266853341"
+  },
+  {
+    "delegator_address": "source1k5lhcpr0fmu8wg6skarhsdvdj50fjjwqwf0lec",
+    "amount": "6166540053"
+  },
+  {
+    "delegator_address": "source180u2pakfaczrurlw89wgmqr9qv7mt6q4smtms8",
+    "amount": "6050000000"
+  },
+  {
+    "delegator_address": "source18pw5v8cuael2hs9enknewcwth240du32stfs8j",
+    "amount": "6002149236"
+  },
+  {
+    "delegator_address": "source1s7qr5enjev7zkuc4kmnfzj9kn0gwjtl65tcqxy",
+    "amount": "6000000000"
+  },
+  {
+    "delegator_address": "source13qnx730qsvhr3jweq6ux5mhz65hfedkv2vvhln",
+    "amount": "5908597179"
+  },
+  {
+    "delegator_address": "source10u6d2t2wjuga5pdt82jkzhympc0fm7nmaev2fu",
+    "amount": "5900000000"
+  },
+  {
+    "delegator_address": "source16uw8e3lhkd8k3jje6kjf303kcwduekclqmzw55",
+    "amount": "5834660428"
+  },
+  {
+    "delegator_address": "source14ljvnyvx53m2699egxtvctd6j9xve8nyzdf643",
+    "amount": "5790000000"
+  },
+  {
+    "delegator_address": "source138shr4vjlalwy7260q2ta30lrfyzlmk8aras72",
+    "amount": "5682820929"
+  },
+  {
+    "delegator_address": "source1dsphx3adecx5jxd5ajzce02mv3zle9k7ty7d5p",
+    "amount": "5565284913"
+  },
+  {
+    "delegator_address": "source1x4l4t79ee7rfalz3yceh5fnzv7g254tukc69g2",
+    "amount": "5545706261"
+  },
+  {
+    "delegator_address": "source1d0wlpkdae7csaazw53uj5w2uha6e5tn2wvjl4s",
+    "amount": "5466119507"
+  },
+  {
+    "delegator_address": "source17xs3vjvn9v0tcdtthj5qdjs8x0s6s4tjke6amp",
+    "amount": "5440252579"
+  },
+  {
+    "delegator_address": "source1fc2w5avsmcd4xk4rxquhv3rzdxz6kkhwp2nrps",
+    "amount": "5237597900"
+  },
+  {
+    "delegator_address": "source19866n97fe93up7xea2p6u5r25e6hgdj5cw2v0z",
+    "amount": "5207530498"
+  },
+  {
+    "delegator_address": "source1kdkkzasnsuuh62ajva6cur6xp2anjd27xul0vt",
+    "amount": "5190000000"
+  },
+  {
+    "delegator_address": "source1c60qxt64946vww87v7vq2wd9vetwtfgq9vg9th",
+    "amount": "5140088086"
+  },
+  {
+    "delegator_address": "source1w3cjmze7sglpuyxj4m2mjs7jdtjk7p36chq6p0",
+    "amount": "5114000000"
+  },
+  {
+    "delegator_address": "source13lzly6934ymemk6k3tzvlu3tl7v7gzq392lfmz",
+    "amount": "5068644406"
+  },
+  {
+    "delegator_address": "source149g2tl9xakprzs5f854ntu5fthdgmuqdrw53cd",
+    "amount": "5000000000"
+  },
+  {
+    "delegator_address": "source122z0zs6ztnflpejaey5j6flt6xrly8rrx2rsrn",
+    "amount": "4895451737"
+  },
+  {
+    "delegator_address": "source1shs58dd9770xwfyh3d48w8sam2sm5cquxg67et",
+    "amount": "4832018448"
+  },
+  {
+    "delegator_address": "source1nyj2feqmkulvh6tm9ahrnrvtnv62xucxfaswqr",
+    "amount": "4822826884"
+  },
+  {
+    "delegator_address": "source17qr3ngs4c42mjjdtnqv620hr8rn2vh4ga6gu7z",
+    "amount": "4787948173"
+  },
+  {
+    "delegator_address": "source1yqu4yyprdjkuhr3jaufz4xvj2pghkk43d4m6py",
+    "amount": "4772400000"
+  },
+  {
+    "delegator_address": "source144cr9u54ltm9ejwc090nfnzldfn8mclzzuhuck",
+    "amount": "4751165634"
+  },
+  {
+    "delegator_address": "source1wm702dw975hz554d6qhxcvym4xa4jnhjzr4xhe",
+    "amount": "4696050142"
+  },
+  {
+    "delegator_address": "source1f0urc2u0dd3ne6yl28armthxkfhz39sze9lemj",
+    "amount": "4621000000"
+  },
+  {
+    "delegator_address": "source153xn8ddsxc2qfwsdjsl087wxym6839exnyjzkg",
+    "amount": "4608895770"
+  },
+  {
+    "delegator_address": "source1uqc88we9mefhqm4smedtmrww2ac9mwhptpl6g2",
+    "amount": "4600000000"
+  },
+  {
+    "delegator_address": "source1elh2k56rn8sugyhlyx55kha0h5jh5u67yqu8k4",
+    "amount": "4591853133"
+  },
+  {
+    "delegator_address": "source1gv6alh8zccl8fruwseqpw8dzfswkqq27jl30sk",
+    "amount": "4500000000"
+  },
+  {
+    "delegator_address": "source1v379k2d56cjsdr0kveqqyjfm3vqqzq9xuzjsnx",
+    "amount": "4453086817"
+  },
+  {
+    "delegator_address": "source14xqhp6z2f0dd3058tereffchy5gxx8dwyk9j0h",
+    "amount": "4449709430"
+  },
+  {
+    "delegator_address": "source1smp8nyvurz7q880wth7j8rnc562d6rpy5gulul",
+    "amount": "4316900000"
+  },
+  {
+    "delegator_address": "source1uwkvzf0smw6je8mgydfsex3pv60azczzqcy6ka",
+    "amount": "4270000000"
+  },
+  {
+    "delegator_address": "source1tz78zev3l3z27rrgk7ugj2wee09hhvxekmcw0d",
+    "amount": "4229000000"
+  },
+  {
+    "delegator_address": "source1qsyhrc3swmxlyjzh2g3n8a30y066hmd8nays8q",
+    "amount": "4200000000"
+  },
+  {
+    "delegator_address": "source1hjjmrcn7fdarxwah2m7f8ylrsnkr774z9d0p7c",
+    "amount": "4135900000"
+  },
+  {
+    "delegator_address": "source1yxuetmpkhpylzcvrx3sdetmwdly0uxsvzc2uh6",
+    "amount": "4129973484"
+  },
+  {
+    "delegator_address": "source1ec3fd9gajdzk4yt2pf6suzkfgqs2n7gpfp30v5",
+    "amount": "4102000000"
+  },
+  {
+    "delegator_address": "source1qj3jetcn87kg6d2lx42gpjhawr4lphvk72x4zd",
+    "amount": "4069130607"
+  },
+  {
+    "delegator_address": "source1qhsswvh04kv7a55jxe3ugskkmzf7tv8y0yf95h",
+    "amount": "4016934259"
+  },
+  {
+    "delegator_address": "source1mvdnt277449t26f6g38epa0ugu5wmalladjevn",
+    "amount": "3980514036"
+  },
+  {
+    "delegator_address": "source1zlu953zzkl445hpnr9q4jqt3x4lhxuuqqg6vek",
+    "amount": "3967317998"
+  },
+  {
+    "delegator_address": "source1uq757nfy3hltz80nw4k95ss9x4zldhpqgxj0ut",
+    "amount": "3957581426"
+  },
+  {
+    "delegator_address": "source1z4mjtlxrlkmk9njp6rnhg2tcvj95cfwzs4rxjs",
+    "amount": "3890000000"
+  },
+  {
+    "delegator_address": "source178eav0277gzpyz08hz23nzn805v4w63p342ntm",
+    "amount": "3807925571"
+  },
+  {
+    "delegator_address": "source1azyz70l2jqzf2l2w5a58h0ltlnsetrjeau20qd",
+    "amount": "3800000000"
+  },
+  {
+    "delegator_address": "source1leje2y9luldkpw5ws9sgmawn5th3fv208judsp",
+    "amount": "3800000000"
+  },
+  {
+    "delegator_address": "source1ju6eccjf44gkfle3zxdut83lhwnqs7xt0jn4fq",
+    "amount": "3755000000"
+  },
+  {
+    "delegator_address": "source1yc80f9fv44n2pkslcstc4dzegdq45rh0sp7qzl",
+    "amount": "3754593639"
+  },
+  {
+    "delegator_address": "source1xfdwgvjm5z4khfa3j6jf7q80l7tt82lmecsy6l",
+    "amount": "3701767395"
+  },
+  {
+    "delegator_address": "source1nd5wekgm6gtql5x4eqnnr2739svjvnavwlqwm6",
+    "amount": "3581395231"
+  },
+  {
+    "delegator_address": "source1eeuvftdxk27efmttn8hpd752j6vazkzyd4um06",
+    "amount": "3563538579"
+  },
+  {
+    "delegator_address": "source1uf9zgjd98945lppdjragmevkqwe6fgdypg9tfg",
+    "amount": "3551332588"
+  },
+  {
+    "delegator_address": "source1h4cmm64qgxwuq207jct9f55n5fjaajse7awspc",
+    "amount": "3518522568"
+  },
+  {
+    "delegator_address": "source185j8nes4xud9c38xamggjhlq3z5sem247q8vzd",
+    "amount": "3442545413"
+  },
+  {
+    "delegator_address": "source1k7ut56yx75582p706707udjze77amxqg6ylna9",
+    "amount": "3437574155"
+  },
+  {
+    "delegator_address": "source1xhzm4j7mxy0e4wq05z95halm7766j9pdzvznwy",
+    "amount": "3408592610"
+  },
+  {
+    "delegator_address": "source13gvgu4qy9xu6xkpjpr00x7rw786pqa9uuumatr",
+    "amount": "3297000000"
+  },
+  {
+    "delegator_address": "source1c5xvjwflz0py6cl45ppns4jd6ges6y870j4ex8",
+    "amount": "3289000000"
+  },
+  {
+    "delegator_address": "source132pa2qn0e4cs4h7wrq268pg9rjks8q260almwq",
+    "amount": "3229569063"
+  },
+  {
+    "delegator_address": "source1prykwf6ccxnvx5484myyc6ehw5qs5rrnnk5g24",
+    "amount": "3229562032"
+  },
+  {
+    "delegator_address": "source185z0c3uentr0wpvgv2f7q894646zt5gwdj2nzr",
+    "amount": "3219341040"
+  },
+  {
+    "delegator_address": "source1dvfs7lzahxw0alfqmput49g9zpzx6c00ham8n3",
+    "amount": "3204968288"
+  },
+  {
+    "delegator_address": "source15dyg0uu24zkswsds3sp27v2xzywsv49hfmm6y0",
+    "amount": "3200000000"
+  },
+  {
+    "delegator_address": "source1zjtvs7na8mck7l2cyhdt8cnz2jzusxtd2s9edc",
+    "amount": "3139520666"
+  },
+  {
+    "delegator_address": "source1af77fznymmq6nd6d4adgxw5h5h6p9awudpd35h",
+    "amount": "3116263464"
+  },
+  {
+    "delegator_address": "source1tvdl4e9lka08ngpwhywt3x2zlm3m68t3mfwekw",
+    "amount": "3078471012"
+  },
+  {
+    "delegator_address": "source1pv8r079tg6ejfquugugze3tdswrl96ynfpd7lu",
+    "amount": "3073483853"
+  },
+  {
+    "delegator_address": "source1tj803wexd2rha7kev3cjl8pjqrgfr3ex9rq5rk",
+    "amount": "3072937302"
+  },
+  {
+    "delegator_address": "source1c5g8xw3dfcxypw65j7aa4j29hetr4wy4za4vkl",
+    "amount": "3034000000"
+  },
+  {
+    "delegator_address": "source13qnzzt3j8f8qlw424vwenzw8mcrv5ez2z3sa0l",
+    "amount": "3024000000"
+  },
+  {
+    "delegator_address": "source1xjfgu20kqvcpgc9m7lpeqwttq72546v0y3hc9w",
+    "amount": "3004000000"
+  },
+  {
+    "delegator_address": "source1yn9yrgh5f3an23y8g0ktt5c6uc285lg8ektd68",
+    "amount": "3000000000"
+  },
+  {
+    "delegator_address": "source1tg56eecwjtlet4hrcfechegwm5n77rc85ln3ru",
+    "amount": "2969811322"
+  },
+  {
+    "delegator_address": "source1elclpa4cpu3tshp9sd2r5v5gjnm6sn5862z942",
+    "amount": "2967835088"
+  },
+  {
+    "delegator_address": "source1a8gx9m553deeajj8jcdlp37tgwqyy2c024yzht",
+    "amount": "2912841909"
+  },
+  {
+    "delegator_address": "source1x76vl0y66k6pjj5jz9l7djyd7n7926s9ts5ctf",
+    "amount": "2888272946"
+  },
+  {
+    "delegator_address": "source1f7j8yyxar5nkjt0r2dd2pc47e8ntjdv5e0dt2p",
+    "amount": "2862479717"
+  },
+  {
+    "delegator_address": "source18mx9t8230xfrjnhry3h5sudzpuup2m6ywuq55j",
+    "amount": "2837408277"
+  },
+  {
+    "delegator_address": "source1lmyyqz7c03te7qnumsxtamtczwh246rzv4jazq",
+    "amount": "2823707344"
+  },
+  {
+    "delegator_address": "source1pelmkne5gtdkqsfawj308mdkup4xf556shtvmn",
+    "amount": "2800000000"
+  },
+  {
+    "delegator_address": "source1na94xvvyrqat6f2lehrrg7p08dfpqvwlvxscq9",
+    "amount": "2800000000"
+  },
+  {
+    "delegator_address": "source1ntxe5vwzzjgsg9qftvykp2p8t7xjpe4cwm4rcf",
+    "amount": "2790939561"
+  },
+  {
+    "delegator_address": "source16yzdh5zp3fm6lkrc5uv59624fv9x4zr07wwvuj",
+    "amount": "2688000000"
+  },
+  {
+    "delegator_address": "source190v7e0ptl54cv72p55hl6xg490nuyg8n42de83",
+    "amount": "2589026743"
+  },
+  {
+    "delegator_address": "source1jht9spa575nupsqmhajctsnwt6ueu9qdj5ew40",
+    "amount": "2576059809"
+  },
+  {
+    "delegator_address": "source1lu3cdj3c6vnu8yyt8qw8v9f699r6tve626d5yv",
+    "amount": "2546809189"
+  },
+  {
+    "delegator_address": "source152r6lxwas7kywdr0xk4sx305dy6mxyz6h2derf",
+    "amount": "2545134606"
+  },
+  {
+    "delegator_address": "source1xc8nvj9wrkrvcye0kku48tv4tzl0nx4qnf6jgu",
+    "amount": "2539468210"
+  },
+  {
+    "delegator_address": "source17j30cl90haqdc9mx7d7f9ajugyucdr3ytaz4ee",
+    "amount": "2537729505"
+  },
+  {
+    "delegator_address": "source18tg85xnwmdfnmev254cv35scusfxspyulny6cs",
+    "amount": "2526978881"
+  },
+  {
+    "delegator_address": "source19teekcma2wugx08yrp2wwv98vgtfx6rmzcaymd",
+    "amount": "2500000000"
+  },
+  {
+    "delegator_address": "source19uer6vvsev357q05jynpsv9g7ujv9wqrj72lsp",
+    "amount": "2500000000"
+  },
+  {
+    "delegator_address": "source17x50z4t8zsze5amk0m98tg26cscuvzt3aqcr04",
+    "amount": "2493853254"
+  },
+  {
+    "delegator_address": "source1feazkyy84uflqsmysxhq8g6ymguvtcj6kyzkzf",
+    "amount": "2475161040"
+  },
+  {
+    "delegator_address": "source19ayrkzcfpgw8ht7cugmcmm4ca96zwp5avczwxn",
+    "amount": "2473844573"
+  },
+  {
+    "delegator_address": "source1a9vgr6f2ag4lkz0jrd9t2uyxp3yqagn6hfgqk6",
+    "amount": "2436754203"
+  },
+  {
+    "delegator_address": "source1wz69rcq9qdnksdryma0caxsktt272hlgxtx8ra",
+    "amount": "2400000000"
+  },
+  {
+    "delegator_address": "source1xu5p7xjq7sc0t9kh5zrc9cqp8ve3p5eezz7wpk",
+    "amount": "2399000000"
+  },
+  {
+    "delegator_address": "source1h29uemc4y533d6dqkmzgsax3k95k2hzeksh25d",
+    "amount": "2390708872"
+  },
+  {
+    "delegator_address": "source1wnrq9jsxqm7plqk60kn6vhphyjgdh9ac8e5php",
+    "amount": "2353519693"
+  },
+  {
+    "delegator_address": "source1efsj9hrsuhcu6lmamm544n7syfn58kd6f9mpse",
+    "amount": "2336875379"
+  },
+  {
+    "delegator_address": "source1n96lzcs7efhxcwz6thxu46v45cra9kx6wy8a60",
+    "amount": "2298000000"
+  },
+  {
+    "delegator_address": "source12uuweyuphf6mlajazkpxke2hxwdfew2wxwgygu",
+    "amount": "2286997418"
+  },
+  {
+    "delegator_address": "source1pu5q8ul43t5qng3xx0c7znx3d0lthxq9xy97ga",
+    "amount": "2278000000"
+  },
+  {
+    "delegator_address": "source1rwaa0c4wltfzu323tkc6fln8jskgcpfxzktdtp",
+    "amount": "2260255324"
+  },
+  {
+    "delegator_address": "source1tym288c48szfqcerrp57cvg3xl9ka5uu99u7lm",
+    "amount": "2231615570"
+  },
+  {
+    "delegator_address": "source1a7mp54tkfc3077fzra9cqxz7v3zjypd8j58nw4",
+    "amount": "2222220000"
+  },
+  {
+    "delegator_address": "source14fr86e7e0cyhzcsu069d5nwd2d68thndcmf6u3",
+    "amount": "2217000000"
+  },
+  {
+    "delegator_address": "source17k7ch636fa6sazsh3r3cucntqk4ezny4j7j2mw",
+    "amount": "2199000000"
+  },
+  {
+    "delegator_address": "source1m5d5vf2pz5zazgu9c8gk4jv5nxrn48hn6scmlm",
+    "amount": "2179965710"
+  },
+  {
+    "delegator_address": "source1c5ut67tkpf5wqvdfuevna642mkp2kk45qrlc4d",
+    "amount": "2155863931"
+  },
+  {
+    "delegator_address": "source1tr93sy694jjz0ljl4h7lkhggfk5pw4y46skm4j",
+    "amount": "2143000000"
+  },
+  {
+    "delegator_address": "source12ju6erx80tfljh7rxrgywxts8dhf0c6mldkud0",
+    "amount": "2140887688"
+  },
+  {
+    "delegator_address": "source1rsz009hwhcq35du5tes7qs2zklnmf2cml8efxx",
+    "amount": "2125000000"
+  },
+  {
+    "delegator_address": "source16n9my807v85vj7xuy3ttqqmhv8jc5shjmm79ew",
+    "amount": "2062285092"
+  },
+  {
+    "delegator_address": "source1xpjenqlc2x8e67c9zcjp2cqskxwdzm99tr0h65",
+    "amount": "2049196843"
+  },
+  {
+    "delegator_address": "source1k0zdx92k6d60vszdhm45hk4tpn06f6kges5jpe",
+    "amount": "2048825330"
+  },
+  {
+    "delegator_address": "source1d7c3cgdkfxx3xg67re2vccmr6vkxcugjeu4r9y",
+    "amount": "2020141192"
+  },
+  {
+    "delegator_address": "source1cmuzdhzth7a04vrz2n63wzh6sd62sjpnyu480v",
+    "amount": "2012960531"
+  },
+  {
+    "delegator_address": "source1dhdfrkvgzxqynhnd9d57es3akkvffqm4yh08y8",
+    "amount": "2000000000"
+  },
+  {
+    "delegator_address": "source1s9ca00l9ta7uqv2gdwdlkphkfm044desuq0eyt",
+    "amount": "1983622521"
+  },
+  {
+    "delegator_address": "source1p7gyng5y74pvrfdnlg2h7yr7vmfs9r6g4a37mu",
+    "amount": "1972192584"
+  },
+  {
+    "delegator_address": "source1nqv8f0jghwd5q23t9dlzxw7ezzllrdxcg0k37x",
+    "amount": "1968000000"
+  },
+  {
+    "delegator_address": "source1u7h6p5d8r4stywnehuxw0jd7vspju6fjd32xcn",
+    "amount": "1964754132"
+  },
+  {
+    "delegator_address": "source104n5l26ajtrtcs22cy26648euygapmy9rat64h",
+    "amount": "1963369274"
+  },
+  {
+    "delegator_address": "source1cftdz9sm7w9p0f0flk7wh6msfahr5p5cnddcmy",
+    "amount": "1959890680"
+  },
+  {
+    "delegator_address": "source1cx4khwxrnrauyunlmcvgeu8crxm6yvj0tund4x",
+    "amount": "1959470204"
+  },
+  {
+    "delegator_address": "source1ac3s5z9qdp2nd7pz35cx6p98vpgm86pe07nmle",
+    "amount": "1957453636"
+  },
+  {
+    "delegator_address": "source18gfmxh5eh52atpgdraymhmvfk2eqgv9zkc65kl",
+    "amount": "1955745198"
+  },
+  {
+    "delegator_address": "source17hxh59zujdzqk3kqjn3mj9scsrs60yxaw7w0d7",
+    "amount": "1943056083"
+  },
+  {
+    "delegator_address": "source1jnhje42mwh7yzxcc459vl3vpnn9a05m679pmkk",
+    "amount": "1921978465"
+  },
+  {
+    "delegator_address": "source15897vt8mt7pnpxwyck0hldqfxsj0rmx69zxuvy",
+    "amount": "1904856296"
+  },
+  {
+    "delegator_address": "source1xh3vkthy28f7948w9h62dext7yrp7xhe33f62f",
+    "amount": "1900614477"
+  },
+  {
+    "delegator_address": "source1ts68fx54gf05ypmlstcngantfca8uzv65ad8ns",
+    "amount": "1900000000"
+  },
+  {
+    "delegator_address": "source1jup7yqferk29kzrdy4nlal0l77sy0hz096qcuf",
+    "amount": "1873345218"
+  },
+  {
+    "delegator_address": "source1zfh6ccddln9e4fkwse7fcquvecpnnxykps0heq",
+    "amount": "1870000000"
+  },
+  {
+    "delegator_address": "source1z4khztkhxtnjc4nrn5kwlp00c6uu2ml57fm72p",
+    "amount": "1846958491"
+  },
+  {
+    "delegator_address": "source13ffgcdrecgxrhtv7ny5gq5zd8dyc92ldrhf7a7",
+    "amount": "1838277200"
+  },
+  {
+    "delegator_address": "source1jgygqj3a2u5g3jaccejh4lf2avapjtzcgzre7j",
+    "amount": "1829550501"
+  },
+  {
+    "delegator_address": "source1j9xnq09s9zfx5qyj4j6m07ytkd3nvtfflgc2fg",
+    "amount": "1827098018"
+  },
+  {
+    "delegator_address": "source15qqeu3mj4y4f0wu5758ym592n4aghynxxpvm7h",
+    "amount": "1822000000"
+  },
+  {
+    "delegator_address": "source1ey7vwgxc7m7gnukt94rf5gl7v68t8wzf32w63q",
+    "amount": "1811249340"
+  },
+  {
+    "delegator_address": "source1z30pluzn357unqxje6z2peshkxwnpeftk5zxx7",
+    "amount": "1800000000"
+  },
+  {
+    "delegator_address": "source1w83770p44g84wn2c2e3744vysjhpn46fvgudjs",
+    "amount": "1800000000"
+  },
+  {
+    "delegator_address": "source1n545xa0qd4mhsk0hxz33l2ccctq5v5tyhu9fhj",
+    "amount": "1800000000"
+  },
+  {
+    "delegator_address": "source1v6aj98yxlr3sn8g4xy9l7s74cy8hd8eynd28xv",
+    "amount": "1771623715"
+  },
+  {
+    "delegator_address": "source124up4umc5258ran4mqx7c8rxka3hxg8azhfgwc",
+    "amount": "1751000000"
+  },
+  {
+    "delegator_address": "source1h5kluqnkzvgnvax5lhg6kcn7xq4hzh6n2g3ytl",
+    "amount": "1747452393"
+  },
+  {
+    "delegator_address": "source1qnptllq8ajp9lqm3ngrgzsesvxrhvyg0ts4epf",
+    "amount": "1738000000"
+  },
+  {
+    "delegator_address": "source18hep38745h0rg24wtgem7sw69lp65t0t5g62tz",
+    "amount": "1735993750"
+  },
+  {
+    "delegator_address": "source1lmyaxh38jzetmzpr2jtq82qt9wkr9mmunysuxn",
+    "amount": "1734381989"
+  },
+  {
+    "delegator_address": "source16kg6ktyx4hxlyq9t9zumadykea7lkxr8xh4ne9",
+    "amount": "1691645887"
+  },
+  {
+    "delegator_address": "source1qnuq322zrskuclu77dc99lntyz5fhll5nyc9ea",
+    "amount": "1686161170"
+  },
+  {
+    "delegator_address": "source17pe4wffe5n094v9xm3v0jyvj38z3rzusz7puzf",
+    "amount": "1648746557"
+  },
+  {
+    "delegator_address": "source1v4mqelmmdqhmje8jmyldsezz46fklyv5uqv4kd",
+    "amount": "1647912994"
+  },
+  {
+    "delegator_address": "source1ktmdaz7up93xr99qs9hcr738yf7y6qdsslp7x9",
+    "amount": "1631176363"
+  },
+  {
+    "delegator_address": "source19684tn079l8rxhg0gprgcv52tk04a8x3tq068z",
+    "amount": "1613608933"
+  },
+  {
+    "delegator_address": "source1s2uzhtn9uzc98yn55xdf5wg7jjmga05jnpnrn6",
+    "amount": "1606395774"
+  },
+  {
+    "delegator_address": "source10uytrt2dezwvchajusmq9e2jrq23hrjdsfue7w",
+    "amount": "1600000000"
+  },
+  {
+    "delegator_address": "source1ml2xhx6eyzxvd088w4nk0jtm00yvrs5x0kcf4k",
+    "amount": "1600000000"
+  },
+  {
+    "delegator_address": "source1m6xh3veruxaqfmvk9zhfut8rscen705w66jp42",
+    "amount": "1592352058"
+  },
+  {
+    "delegator_address": "source1g9kk3mq3ccdfuct9fj84zdt7k23nud9vptv7zr",
+    "amount": "1591284807"
+  },
+  {
+    "delegator_address": "source1a2ge3rkjv0eesejfzh428uwhv6zy5s6hq3jph0",
+    "amount": "1560691409"
+  },
+  {
+    "delegator_address": "source1ckhgfntq20zyrrx7agufg5687lt72acnu9d4s9",
+    "amount": "1559701730"
+  },
+  {
+    "delegator_address": "source19y4qt2l4apntf2pgr86j4usc2ude6yreedgf5z",
+    "amount": "1535864061"
+  },
+  {
+    "delegator_address": "source1lv4ls9yd36exsluwajqc7va4f05ejrg0l0udu0",
+    "amount": "1535000000"
+  },
+  {
+    "delegator_address": "source18qnmwu5ykwulswg3ldc0ddu5rksmpdwnxky9pv",
+    "amount": "1532656974"
+  },
+  {
+    "delegator_address": "source10qmjf6kxhzugwrzmsua0wr80lhqxjvadqzcezd",
+    "amount": "1529514027"
+  },
+  {
+    "delegator_address": "source1ksq9hcdju2u0ahxfccm6a9vul8a80mu8ydsnza",
+    "amount": "1528756341"
+  },
+  {
+    "delegator_address": "source1g22ruakuac9qgzvtj20ve2w59gamw3lczk9uxh",
+    "amount": "1511215498"
+  },
+  {
+    "delegator_address": "source1nd99gv737ee8gf5hhmu5pngudh0wdl4l9t6dzm",
+    "amount": "1504858677"
+  },
+  {
+    "delegator_address": "source12078rh8qz4l8u5kdghrzt3qxxpzfwetkyqcmeg",
+    "amount": "1504435003"
+  },
+  {
+    "delegator_address": "source1gr8vamptjakc2s8gk6awkatrdns37vv3n8sthw",
+    "amount": "1500000000"
+  },
+  {
+    "delegator_address": "source1qphzltgp27frpp9h8s4chjlcxw0lpwy6tpxlka",
+    "amount": "1486526209"
+  },
+  {
+    "delegator_address": "source1da9a6attnpl5gvvq4qfeuzxyvn6dp7sr636aka",
+    "amount": "1470000000"
+  },
+  {
+    "delegator_address": "source1yzujy643udvw62nrx9xahnmqgusc5a4y8v2q80",
+    "amount": "1444826626"
+  },
+  {
+    "delegator_address": "source1zrglpmkhnj86dpcqdt4j4czn0wap5rqgpadkw8",
+    "amount": "1444429000"
+  },
+  {
+    "delegator_address": "source1l8pfkguyv7ay6h7zn5yk5tmlgw5pym59g3sem9",
+    "amount": "1443258612"
+  },
+  {
+    "delegator_address": "source17mjcsexxlq8yh8jtrl248flwmtljm4t2u70d9h",
+    "amount": "1443170649"
+  },
+  {
+    "delegator_address": "source1tw2w3nha339gld2qddkwrn72kjw9h63mseuq28",
+    "amount": "1439095299"
+  },
+  {
+    "delegator_address": "source1vl35cydrr6dnvg2vr3q7ffzy2eu457ys6qs6p9",
+    "amount": "1434021717"
+  },
+  {
+    "delegator_address": "source1x7srlev30t77mdvrjxdrfltk392v92z8fd8aqt",
+    "amount": "1433810488"
+  },
+  {
+    "delegator_address": "source19x2qfeuz0tnrmrcpzskn9f37jk33px2xeep7j7",
+    "amount": "1433743914"
+  },
+  {
+    "delegator_address": "source1djhmp8gewgn7l8p38d786ddrpzgxam6jnja83s",
+    "amount": "1429283052"
+  },
+  {
+    "delegator_address": "source1hgc7h7hz566vhadfc3uqqtf6x8uy7643538hdh",
+    "amount": "1420871838"
+  },
+  {
+    "delegator_address": "source1tg4qz9vfzqfh3ug3zkfftsu6q4s9zk4c50jmh8",
+    "amount": "1381616599"
+  },
+  {
+    "delegator_address": "source1dzwns2l3w4rvqyjgnxh9h2jgnj6xjt6m2gz3fe",
+    "amount": "1378000000"
+  },
+  {
+    "delegator_address": "source18kcvhugg0fjsqk5ka06dsplylrge2mj40chuu3",
+    "amount": "1357920474"
+  },
+  {
+    "delegator_address": "source1nlhanz8qddtstr7aj9ev0vqmnrlrcjxsqfr2a7",
+    "amount": "1356671664"
+  },
+  {
+    "delegator_address": "source1mz0zald5ynr82k07fznmv4uy2qqnm2qajv2kuc",
+    "amount": "1354443115"
+  },
+  {
+    "delegator_address": "source1w7t8ce5rmx7aul89wnd2wlfpv026d5ahfj0a06",
+    "amount": "1348212544"
+  },
+  {
+    "delegator_address": "source1qqm6nam6hse8qpn8y8sy5jwpnmkcpdpmpwx2j0",
+    "amount": "1342000000"
+  },
+  {
+    "delegator_address": "source1ywv2tl5hvzlvd0snv3ykhkv4p899pdtvf87g5a",
+    "amount": "1333366023"
+  },
+  {
+    "delegator_address": "source15taya4q30t8e02v3rwwjzd4l8lt2fy9eck4gkt",
+    "amount": "1328903177"
+  },
+  {
+    "delegator_address": "source1lthjzy5v3els6t6hdzv8ug5hjq5ldegz8234ed",
+    "amount": "1328245503"
+  },
+  {
+    "delegator_address": "source170p4cpfzpdxswvyhze2tw7hyytej9xat9w5qln",
+    "amount": "1327221594"
+  },
+  {
+    "delegator_address": "source12ermpch6e83cxeqs2mjyjatxegtmu4cfjzysvr",
+    "amount": "1323332183"
+  },
+  {
+    "delegator_address": "source14wxwl3yr0gf496xysy20nkz3g9asz5nzsj96tp",
+    "amount": "1306567675"
+  },
+  {
+    "delegator_address": "source1n3x3gnxpmz6ax87av0gnfa8d0re2v208t53wcx",
+    "amount": "1300000000"
+  },
+  {
+    "delegator_address": "source1435a940k7jkhczeh3wl88euk6juz3nmrydswng",
+    "amount": "1295756821"
+  },
+  {
+    "delegator_address": "source1dkq8d9m3put6ace0mn5k7km3ch837e3ezh78q7",
+    "amount": "1294540096"
+  },
+  {
+    "delegator_address": "source1c2t867e7x33jw8c8mrl6cdvn89934k82jqaxw7",
+    "amount": "1291830350"
+  },
+  {
+    "delegator_address": "source1twan06jq989rfru4u75jkn43hp6a70gh8l67as",
+    "amount": "1291702404"
+  },
+  {
+    "delegator_address": "source1jxcacg2f0dmgmqcy22e2xruslnhh8wxgyvfjsp",
+    "amount": "1280459745"
+  },
+  {
+    "delegator_address": "source1uyqwd4gpm9n7nmv6jjywpvj6uwuj3e8ljlykvc",
+    "amount": "1278729844"
+  },
+  {
+    "delegator_address": "source1qt5jnkqnrn7mx9qhq5jgrghrqxjrsxrq5ktz5y",
+    "amount": "1276101477"
+  },
+  {
+    "delegator_address": "source1v8h45qelm6r7ucsdmex48ntkvnrnq9ur5g3hhw",
+    "amount": "1275541883"
+  },
+  {
+    "delegator_address": "source1pj9a9fsnqjz324llpjskmmq95fd6vuhwfdzjgt",
+    "amount": "1275000000"
+  },
+  {
+    "delegator_address": "source12yawcplsamryq9zg88ls9970vffrruc957pktu",
+    "amount": "1275000000"
+  },
+  {
+    "delegator_address": "source1cgjxes8z393ux0ps6hcu6385z6ms6gv0zhg4kz",
+    "amount": "1266475000"
+  },
+  {
+    "delegator_address": "source16yqnemhum2zzkp3lgrgm2tq74zcy94yfhpjh4s",
+    "amount": "1266000000"
+  },
+  {
+    "delegator_address": "source1crulnyux9ns5f6ngxc6rg03f04lghwrfc8nlkz",
+    "amount": "1265368621"
+  },
+  {
+    "delegator_address": "source13am96rks85jdfudt80vgfg6s3mlj2nxx69yh07",
+    "amount": "1265000000"
+  },
+  {
+    "delegator_address": "source1unn3gpqktjeenk56rgz4j3jqthj2exrsu55um5",
+    "amount": "1259957284"
+  },
+  {
+    "delegator_address": "source1jf7u589sr24ae47stkfl93t5xkjut3sr6n4y9f",
+    "amount": "1259827463"
+  },
+  {
+    "delegator_address": "source1mdq4lj0w3aftt9p2xzumvfcekh650zry2hcar3",
+    "amount": "1253531480"
+  },
+  {
+    "delegator_address": "source1mn3qxc7dv8x93z5nkx8ydnnzgt2zcxlf54fe0d",
+    "amount": "1247911797"
+  },
+  {
+    "delegator_address": "source16r8masj94zav9fhwg00z9vkx2rpvd9d4a28t32",
+    "amount": "1234000000"
+  },
+  {
+    "delegator_address": "source1c2duecxwgl9eq3g4ndh7t5c6qft7svpermccw5",
+    "amount": "1233307763"
+  },
+  {
+    "delegator_address": "source1972gys70m4f4cs8kr7927e0qvlffdl6jydgffu",
+    "amount": "1230951485"
+  },
+  {
+    "delegator_address": "source1y8eyz3vf48ydt9ycjlwdrtsfffs79zj3737g3y",
+    "amount": "1230000000"
+  },
+  {
+    "delegator_address": "source1r0mpc7qmsxjnu76q62ktltwn2sak0hm0deslgd",
+    "amount": "1219761545"
+  },
+  {
+    "delegator_address": "source1ra9sccq722fakf2t2tdces9vy546tcgrqtd0j5",
+    "amount": "1218988912"
+  },
+  {
+    "delegator_address": "source1v4p3lvawskszxjstkp9en5sq44z97jylag87q3",
+    "amount": "1209250000"
+  },
+  {
+    "delegator_address": "source1lalfp29w2xefgfge55zj0ugpsx5ez9qzn9nccq",
+    "amount": "1203309411"
+  },
+  {
+    "delegator_address": "source1dn8wzx4z58pxgjrekl83r8kwpvvcvle5p7fr2m",
+    "amount": "1188122774"
+  },
+  {
+    "delegator_address": "source1fqc2xv645j9xldgnfnhtzcslrw5vm784jyujm0",
+    "amount": "1187172138"
+  },
+  {
+    "delegator_address": "source10lcgy02g4z5z8djthlg435qgcsw2n8hx9sxkt4",
+    "amount": "1184666728"
+  },
+  {
+    "delegator_address": "source1haktxkqnjv6sj3pvtqhuagntsast8jtquhy9a7",
+    "amount": "1182848927"
+  },
+  {
+    "delegator_address": "source1d50hjfww5zsuyrds4rwdvrnxq4yrg2rzw2t0gs",
+    "amount": "1179802810"
+  },
+  {
+    "delegator_address": "source1fcyac5lr5djc9623d0en9r9m0a34da26nf6kut",
+    "amount": "1176192567"
+  },
+  {
+    "delegator_address": "source1lkh7gapk93cp9gxmmt9y8leateuc3thxv6lwwv",
+    "amount": "1174958368"
+  },
+  {
+    "delegator_address": "source1qqnlsrpk5uhf6ktdq08g52tjeqmlmrsyr7p6vg",
+    "amount": "1171849672"
+  },
+  {
+    "delegator_address": "source14u0kxaaqk8w3z6a8kgjr2x0svl2xaam8le6pjt",
+    "amount": "1160000000"
+  },
+  {
+    "delegator_address": "source1mqucr2yr6tg760vt99p55hazh2s555khsg78kk",
+    "amount": "1141671135"
+  },
+  {
+    "delegator_address": "source1wgdy47sw4j0v7kxyx2s4slrtshd74eedm09t3h",
+    "amount": "1129697058"
+  },
+  {
+    "delegator_address": "source1jzxvn6uga7l8xswt5ahu0s9u787purepa7ml7f",
+    "amount": "1122938501"
+  },
+  {
+    "delegator_address": "source17lamkd8g37ajjm5xe9hchje0ue0v70zrcmsgjw",
+    "amount": "1119369246"
+  },
+  {
+    "delegator_address": "source134ultcrapjnu8nxttt5rlc05tgeex2jajj4k0l",
+    "amount": "1118953829"
+  },
+  {
+    "delegator_address": "source1j8utcr3sayldfhhupmrkhyzv74c23fzwkz5vu8",
+    "amount": "1114735302"
+  },
+  {
+    "delegator_address": "source16n0q0prqt3scpq3lqzkqfslz4902s3kkl59msa",
+    "amount": "1102591150"
+  },
+  {
+    "delegator_address": "source129rw3gnlk6x9annfw93jk86p55tn7wlehm633t",
+    "amount": "1100119724"
+  },
+  {
+    "delegator_address": "source1muu9z9l95dt3skecrpck9x7v044rs6hqua68uc",
+    "amount": "1070300959"
+  },
+  {
+    "delegator_address": "source1s0r0fkat9w9awwn5zsnpnzagh5rlmyjy6247af",
+    "amount": "1048372024"
+  },
+  {
+    "delegator_address": "source1w9l99t7tlahr5x5u9hxdk4vvqf2r3gmvg76ek3",
+    "amount": "1031976754"
+  },
+  {
+    "delegator_address": "source1we26rscwqwcswn7w3naw2rstkyg03keawerhfl",
+    "amount": "1030000000"
+  },
+  {
+    "delegator_address": "source194ak7ahzcdu9u532g5xy65pzvnkftu0gfeavhd",
+    "amount": "1027000000"
+  },
+  {
+    "delegator_address": "source1uue3jj5rdc98390tutfr3ajlzfcj9zhn5ujeln",
+    "amount": "1026141503"
+  },
+  {
+    "delegator_address": "source1swty9y3wshvcja3rzax3cgpmtqyz3plzdlqmc7",
+    "amount": "1020000001"
+  },
+  {
+    "delegator_address": "source19hwxllr8amky2qls6wzeed02dtw5hyj4m7egm3",
+    "amount": "1015000000"
+  },
+  {
+    "delegator_address": "source1d7mw9l7cjynmhzf0n9pflzs92qvfws3uvgrde5",
+    "amount": "1011000000"
+  },
+  {
+    "delegator_address": "source1rdn96w3ykwr6s49nh5zxhjxlv2jcyh0zuhj3gf",
+    "amount": "1010982316"
+  },
+  {
+    "delegator_address": "source170yklvtx6uc6j3khks88mv86vqu5z7rpd8m6cz",
+    "amount": "1005139362"
+  },
+  {
+    "delegator_address": "source1yhlkjsmzcjhkwqzt3xrmv6w0vf9u9m5lf2rrff",
+    "amount": "1002601402"
+  },
+  {
+    "delegator_address": "source1tlax65f27j2svx40xgep2kzpj5agrepmfu5zh8",
+    "amount": "1001000000"
+  },
+  {
+    "delegator_address": "source1rtsce8m32ah3fnp9lu5ut9mjkczd7wl6nezrr8",
+    "amount": "1000000000"
+  },
+  {
+    "delegator_address": "source1gd6e2ggarc4x598y9yvx5m70ymetsj24remj54",
+    "amount": "1000000000"
+  },
+  {
+    "delegator_address": "source1d87kckntmf2zsvh54khhtlce58va9dqdup5kxn",
+    "amount": "1000000000"
+  },
+  {
+    "delegator_address": "source1dgnpnt6xlf7qtkfm9uuqwsvvmy8gemykfqjt96",
+    "amount": "1000000000"
+  },
+  {
+    "delegator_address": "source108rvyvcs67quc5nuqh6w7t23cnxltrjcwz7txm",
+    "amount": "1000000000"
+  },
+  {
+    "delegator_address": "source13p5dt20sggkxpj9w0lgenk87tuj8ykz0cdu3t7",
+    "amount": "1000000000"
+  },
+  {
+    "delegator_address": "source1hm22js230r3zjdykdr8s488s9vq7ttmezah7as",
+    "amount": "1000000000"
+  },
+  {
+    "delegator_address": "source1uzvprlh5t4ne6zhlnz8q2kkdsh7sq8xgzedgw0",
+    "amount": "1000000000"
+  },
+  {
+    "delegator_address": "source1umfl0lnpgymtpn7qph53ucvzu8ar0wuykl6wk0",
+    "amount": "1000000000"
+  },
+  {
+    "delegator_address": "source1aq4usrgpgre72zlfp4lzqjtqyrqhpmsk09wct5",
+    "amount": "1000000000"
+  },
+  {
+    "delegator_address": "source1mtl4ypv2j4wkm5upag7sgvgr6pas5rzpmws064",
+    "amount": "998000000"
+  },
+  {
+    "delegator_address": "source1qjq3c5gx6az9ymmkda28yjvk86a04vus3czj92",
+    "amount": "993169418"
+  },
+  {
+    "delegator_address": "source13a0dssvs6tgsgx50d6t5qwq75f8u7z20a6nzzu",
+    "amount": "988327681"
+  },
+  {
+    "delegator_address": "source1r3k5c2qe7m5vpv798cx53pesgkg7nmzndz3us0",
+    "amount": "980000000"
+  },
+  {
+    "delegator_address": "source1ez9tnyhh08myyzshackc5aemwq4fv7gzl0j4m2",
+    "amount": "970648230"
+  },
+  {
+    "delegator_address": "source1u0v23axt4zlztdvjlt985dpw0y5zu3xe3nrnf5",
+    "amount": "968014930"
+  },
+  {
+    "delegator_address": "source189g9war7xmrl68g4rxjgafjl0e99jnh9r9dnhs",
+    "amount": "957308051"
+  },
+  {
+    "delegator_address": "source1ye2kd4gx0fjuug5d0ds6dtp58ajmdsx99sexgv",
+    "amount": "954133595"
+  },
+  {
+    "delegator_address": "source1yrp5uxtugqpzk8lphlmx0sf50gflwc4ypxl9ue",
+    "amount": "950000000"
+  },
+  {
+    "delegator_address": "source1ggd6sald2ga6qtukm8y5tff42a6393au5u42y3",
+    "amount": "949646021"
+  },
+  {
+    "delegator_address": "source15ncjrwz9t02tl690ndfzxvhmhngxy26pjz4dl9",
+    "amount": "948000000"
+  },
+  {
+    "delegator_address": "source1e0q5vxg0umuw40jy5tdee0ly2ky9t98mg23xpl",
+    "amount": "947000000"
+  },
+  {
+    "delegator_address": "source1a4sl6tx2rj2dxvak9vnels9l0dpw4sveevwd38",
+    "amount": "938095488"
+  },
+  {
+    "delegator_address": "source1lcfwaev6n3z7np8u530ye4qf0sfplpq59e736q",
+    "amount": "935323622"
+  },
+  {
+    "delegator_address": "source1tmphj64qqwlet99wc5jn640uz7g4a6sz42pxh8",
+    "amount": "920054675"
+  },
+  {
+    "delegator_address": "source1c5tn39sxuqdatawsdmvl5y83gtuqw6rdta3ehy",
+    "amount": "905250502"
+  },
+  {
+    "delegator_address": "source1kpsmkmy44xntu55zx4zel2pzyesa7k3pw2jrqn",
+    "amount": "900087616"
+  },
+  {
+    "delegator_address": "source1vdng0532cl7jqc8npkgw2kc8skyurhc0xkqyuu",
+    "amount": "900000000"
+  },
+  {
+    "delegator_address": "source1uz07k6e0txmv3agfczp4yqm7zsl32fkw9p8j3q",
+    "amount": "900000000"
+  },
+  {
+    "delegator_address": "source1wdvcezech8aus8kypmjafklyd2lyhgl0m2uj78",
+    "amount": "899911588"
+  },
+  {
+    "delegator_address": "source1m6qg3s3g9wpfur59dzq44e7g9hk39j9ede354w",
+    "amount": "895442358"
+  },
+  {
+    "delegator_address": "source1sn9awgrlldnz8elmn5q2yewytqft0cvqx5mkff",
+    "amount": "888149212"
+  },
+  {
+    "delegator_address": "source1cvmg7vexxanstskj2w42jc56hd46snuzfmw0p5",
+    "amount": "878920896"
+  },
+  {
+    "delegator_address": "source1vss9v2rq0ggnnyn4ypu3dpu8djuuhveul9cref",
+    "amount": "870000000"
+  },
+  {
+    "delegator_address": "source1pqlwlpy2yqhn5cre3kphgsndgldp4w3marw060",
+    "amount": "864341035"
+  },
+  {
+    "delegator_address": "source1u4j8a6p3vfm7m6mucatce6cefjtypch78c2d77",
+    "amount": "850000000"
+  },
+  {
+    "delegator_address": "source153u9yg4mu36s9mg2xcka4wvn70emy69vzej09d",
+    "amount": "846000000"
+  },
+  {
+    "delegator_address": "source1c8lsry9wyu5npayxfjcucsqpf2n9clftx7f0ka",
+    "amount": "840000000"
+  },
+  {
+    "delegator_address": "source1500we5wre4lew67hwm266vtavhxvq4r5jk4eet",
+    "amount": "839085314"
+  },
+  {
+    "delegator_address": "source1956zxfmd03w90vs7nnpwlw52t64vm3k6k7tt5t",
+    "amount": "836648930"
+  },
+  {
+    "delegator_address": "source1uf4uwkeneagg65yxn8dx7qf4d69nsegs9m5ruj",
+    "amount": "831053780"
+  },
+  {
+    "delegator_address": "source1prhq72xcwrtvmvhru3a8cwdl6gzpd27ymg82x4",
+    "amount": "826382052"
+  },
+  {
+    "delegator_address": "source12h3f4r8yu748aw47yyknkaq3g4zdjhczgdzdt2",
+    "amount": "820000000"
+  },
+  {
+    "delegator_address": "source1fad5eyp5gpauxng5suw6z3qzy7was2uwnn953c",
+    "amount": "810433470"
+  },
+  {
+    "delegator_address": "source10x5lxnqj7u9v5jy3hkztn9gag65q48n59a92gl",
+    "amount": "806260491"
+  },
+  {
+    "delegator_address": "source1m8vexz6lrj6fe5ldz5twvzr7mvtdvd97fr430j",
+    "amount": "801937104"
+  },
+  {
+    "delegator_address": "source1ugsa5z0hwz37ky04pv4yyn9cvfnf7wtf8cuzu6",
+    "amount": "801268581"
+  },
+  {
+    "delegator_address": "source1prry8nyvzuaw0hcj4au3lyd7gkwr4cw04pll6a",
+    "amount": "800626580"
+  },
+  {
+    "delegator_address": "source1vk6z2aa4hwf5kkd07248q8sm5xqzdduexzxyhh",
+    "amount": "800000000"
+  },
+  {
+    "delegator_address": "source1d3j4c90vqtmmemddwg6xn28nj9mq3ns5zvlnqc",
+    "amount": "800000000"
+  },
+  {
+    "delegator_address": "source1w7vw2ezwa52cmgnvum92j0u0xc9mw3946qz08n",
+    "amount": "800000000"
+  },
+  {
+    "delegator_address": "source1j0lke2jmuwxqh0zgs2kkk95stghl5l0rv8dlxr",
+    "amount": "789515855"
+  },
+  {
+    "delegator_address": "source1ralz0egzm87anu44wjqjg6723k3wc654eavapx",
+    "amount": "788078882"
+  },
+  {
+    "delegator_address": "source1ae49x4agussv8u7953neu3fv2z7u9w6svxq2wp",
+    "amount": "785507463"
+  },
+  {
+    "delegator_address": "source1ms4w5swfu5c0stk7nzwvsawtakhsglyqg65rzz",
+    "amount": "775000000"
+  },
+  {
+    "delegator_address": "source1haa2p9zsnklupq80a449ex0d5y0xqa39x5qthc",
+    "amount": "774611639"
+  },
+  {
+    "delegator_address": "source1f0cj0v86ewlhp3htg29ac58yxs2uh0tprvgqt2",
+    "amount": "771774873"
+  },
+  {
+    "delegator_address": "source1wlcunpw9hl33jg3psvqg47a05ckt9hmu9kjzr2",
+    "amount": "769937534"
+  },
+  {
+    "delegator_address": "source12s6k342zemmcq9tv3m0hvf8u9gl099e4gl58p7",
+    "amount": "754000000"
+  },
+  {
+    "delegator_address": "source1p2dp8meqm2gelxx4m3v029d2f5gz3gst2vkqde",
+    "amount": "749764313"
+  },
+  {
+    "delegator_address": "source1nx4d7xd8prglthkxszmrjf90gdjvtpywszhr47",
+    "amount": "748086529"
+  },
+  {
+    "delegator_address": "source193ha3qhg0upx89vqzhknd3ra075r37xvche6x4",
+    "amount": "746980552"
+  },
+  {
+    "delegator_address": "source1gzsc7t6pwsxk2a44jxql8namldq6y6hxek2yud",
+    "amount": "744871134"
+  },
+  {
+    "delegator_address": "source1ugs6p94wxjheav39urhwmwem6stt0pja245czf",
+    "amount": "743962293"
+  },
+  {
+    "delegator_address": "source17llw5vaayd4qjplw2t8n4shzex9vw906xf2hpl",
+    "amount": "738095290"
+  },
+  {
+    "delegator_address": "source16nhpgz2t6cq7hg8hy6h3snw3fdh6yv6r6ke0f9",
+    "amount": "737681116"
+  },
+  {
+    "delegator_address": "source1remxeunduu0rs2e6f74jshl4u98q0scemegp9e",
+    "amount": "732000000"
+  },
+  {
+    "delegator_address": "source1rknrapqtccrj8qflfaywajg2yj2dd540yypu8t",
+    "amount": "730000000"
+  },
+  {
+    "delegator_address": "source1xzz0ukyv0rkwfvxvqp3wd5rkym6p8etkcqe4g6",
+    "amount": "729000000"
+  },
+  {
+    "delegator_address": "source12pgyxa8nhmtwc3n8mkpcsamyjfw7sywfgysran",
+    "amount": "725819675"
+  },
+  {
+    "delegator_address": "source1m6ey4dvk8j520pwfr4d573cqdqcfyhakvek2aw",
+    "amount": "725000000"
+  },
+  {
+    "delegator_address": "source1qhm6nh7ej53q4mglk6vcqg7nw9lkcx0c67hs4s",
+    "amount": "712947721"
+  },
+  {
+    "delegator_address": "source12e4cr5w807csadkfytk3fep8kdhcv6x2daq5hd",
+    "amount": "712496827"
+  },
+  {
+    "delegator_address": "source19t6x5c8ydq6llsq9xlqtw7jchldts94ptchj2g",
+    "amount": "712000000"
+  },
+  {
+    "delegator_address": "source1mxqmekgzlau64200728qfr3rznmpdz3a3jk4mw",
+    "amount": "707752457"
+  },
+  {
+    "delegator_address": "source1wa0787av0rcxmumkfyrljxwf9dmk7ldj7nh88l",
+    "amount": "707140492"
+  },
+  {
+    "delegator_address": "source1k6gvluvf8z3uwug3x6nuw0f445jxvawr95vcna",
+    "amount": "700000000"
+  },
+  {
+    "delegator_address": "source1h4zffvsfnydkptg2mgpm0hquxv2p9zjyk7sy30",
+    "amount": "700000000"
+  },
+  {
+    "delegator_address": "source108mkzpvr8rjnnaxygqk9m5s678qs4wphr2y4cs",
+    "amount": "699121343"
+  },
+  {
+    "delegator_address": "source12am9dylz8s8rn2rssvmrha9t03rp7q8kllawzt",
+    "amount": "695000000"
+  },
+  {
+    "delegator_address": "source1vv8jcjhq7ntazp6kq7zw665hl876ku8atyhc2y",
+    "amount": "693373954"
+  },
+  {
+    "delegator_address": "source1z0u4gu32yq6nx8hm2c34rcc7268p25xjzgpfph",
+    "amount": "690000000"
+  },
+  {
+    "delegator_address": "source17xgmw7f00m5dtjy8cv8qecfw9r6s3qnk6plmsx",
+    "amount": "680000000"
+  },
+  {
+    "delegator_address": "source19rsj0scvc0jt3le0ha2k29pgc7228jl5zehdmw",
+    "amount": "670000000"
+  },
+  {
+    "delegator_address": "source15j46nt4mfsl3m0dugf8e5zxvjp8hgla44sqcej",
+    "amount": "670000000"
+  },
+  {
+    "delegator_address": "source1hjn7jl2l8mfja5p4q6yk5mavdjc8ejz2xjr53f",
+    "amount": "668679772"
+  },
+  {
+    "delegator_address": "source1utzd6r4095925z6c6luelu02l572cdgtsrdwv4",
+    "amount": "667682902"
+  },
+  {
+    "delegator_address": "source1auj34y8j8wztaunzcn9uqhf3g4ddyjnaq8txg4",
+    "amount": "667336609"
+  },
+  {
+    "delegator_address": "source1rk6qdahk8s7e5pn7354ddfzu90qfcd8jhwagu6",
+    "amount": "653958867"
+  },
+  {
+    "delegator_address": "source1vsd27ctsevms6j6rrvzsa2ltzg63jv0rkc0g8h",
+    "amount": "648126493"
+  },
+  {
+    "delegator_address": "source19ea7x0n2qyz6ajll8yaljc0936qps6hy8udjz4",
+    "amount": "647726868"
+  },
+  {
+    "delegator_address": "source1kxuzmuw7ruwruc92g0qpq0qdkpj89mzytt82pd",
+    "amount": "646039382"
+  },
+  {
+    "delegator_address": "source1674z49vthapq5wql5p7tzhqml880f08n09qryg",
+    "amount": "645000000"
+  },
+  {
+    "delegator_address": "source1rhewgl5j8vh3lyg8trkgaqedxdhhzgamz0p3uq",
+    "amount": "640441513"
+  },
+  {
+    "delegator_address": "source1vqp88kzuvllwr57m6r38dghy6w64qvv7zhtw8n",
+    "amount": "636111162"
+  },
+  {
+    "delegator_address": "source1ppk3ascqs5zrt9qqg3y579lp005uvnkhf75jnk",
+    "amount": "634776459"
+  },
+  {
+    "delegator_address": "source1rvn5p29e3h7lcscwgr9s8dtejl3vja959mzeau",
+    "amount": "622430000"
+  },
+  {
+    "delegator_address": "source1z590lfdgw03r5jwc8gq08af80khacxt04guvvh",
+    "amount": "620184963"
+  },
+  {
+    "delegator_address": "source1xkkr69nkd57p36lfswnruyyalnfu8r3ssxsaps",
+    "amount": "610849434"
+  },
+  {
+    "delegator_address": "source1srk84xj3kpylf929xd4736n4wavm643jwlru3y",
+    "amount": "610830815"
+  },
+  {
+    "delegator_address": "source14g8hzvc4g7etjh67vnvwge2c0swur6al5ylz5a",
+    "amount": "609210771"
+  },
+  {
+    "delegator_address": "source180vt2djnt8msx0pc5f68gquchapwvjx80sw93j",
+    "amount": "606280029"
+  },
+  {
+    "delegator_address": "source1qwasamh38qgch2crlxad7l2agyax6lcqdqqr8k",
+    "amount": "605000000"
+  },
+  {
+    "delegator_address": "source1p7l9hn0ggrsdqeywsnx704d8stlwh589uzzawd",
+    "amount": "605000000"
+  },
+  {
+    "delegator_address": "source1hqyuhqf4c6ww3hygmmq4v5mv87atpwr7auxvs8",
+    "amount": "605000000"
+  },
+  {
+    "delegator_address": "source1v5wyp7ssq49hgv4mte4pyg8h7xcyg4lj8n85te",
+    "amount": "600191442"
+  },
+  {
+    "delegator_address": "source17nkqlefug0hqaczdk47a6xxj6cud6wq2dnsp87",
+    "amount": "600000000"
+  },
+  {
+    "delegator_address": "source1vkt5nnv0rqn7de8sdhsxd6dyydkdxymgejh5yl",
+    "amount": "598000000"
+  },
+  {
+    "delegator_address": "source1yc52nc2z8x5eh959rxk7kuc9letrtegsq5kmuc",
+    "amount": "595000000"
+  },
+  {
+    "delegator_address": "source1ugxkhjzaexe39rk3e4ka7aca2t5d6wk5gqe2dm",
+    "amount": "585420699"
+  },
+  {
+    "delegator_address": "source1mepru9fuq4e65856ard6068mfsfrwpgetv4axp",
+    "amount": "584719245"
+  },
+  {
+    "delegator_address": "source1hnj9kf8ud6plyn635f6qnu52eykt6qk9vzvyrg",
+    "amount": "583507979"
+  },
+  {
+    "delegator_address": "source1q5mscptsuavpm4tj4hg5kpvqeyhk583ke5022r",
+    "amount": "580000000"
+  },
+  {
+    "delegator_address": "source1mx7lcrdv3y3gvkls4tlxjevcqf4suhg6x8rxtl",
+    "amount": "573701702"
+  },
+  {
+    "delegator_address": "source14e04xex0yg635r46u36l2l320t980xdh48dsqh",
+    "amount": "565005435"
+  },
+  {
+    "delegator_address": "source1dptnvy7kwjn4g226cw3pklzmze9qvet5nyx7um",
+    "amount": "561903192"
+  },
+  {
+    "delegator_address": "source1q2cuye4r58c6aerg5e8qh3acs03nhe43gschad",
+    "amount": "557145261"
+  },
+  {
+    "delegator_address": "source1pjy32mrrtqz0tghpfrquycnennux8femdvrwxr",
+    "amount": "555000000"
+  },
+  {
+    "delegator_address": "source1z65syxplsy9kcyxz47u80xdf3es9rg9srex2d7",
+    "amount": "552558951"
+  },
+  {
+    "delegator_address": "source19zrtt2uncccycgcm9efgedu0hr27qfdvjuvupl",
+    "amount": "550000000"
+  },
+  {
+    "delegator_address": "source1vp87s6nw7e7a8mj5x9yktxyf6vq75yhzqywm3n",
+    "amount": "550000000"
+  },
+  {
+    "delegator_address": "source16zw06w2g249z4u7fm4gurx3cxunc29m4r0weug",
+    "amount": "549546103"
+  },
+  {
+    "delegator_address": "source1j5cephkjpxqt4dekw0pa0ly6y6pqv8wcn34esc",
+    "amount": "543000000"
+  },
+  {
+    "delegator_address": "source1m8w56h6k5ryudkrlkgjaq9w5gg3pc3xkftahy0",
+    "amount": "540000000"
+  },
+  {
+    "delegator_address": "source10wu2vcpe7nven4udxvmwn3pz5cl4c9hrmnjrrk",
+    "amount": "539608740"
+  },
+  {
+    "delegator_address": "source1z0pdlf7zner8ce0s2nx0xd987wjlf65md0gaq0",
+    "amount": "537435578"
+  },
+  {
+    "delegator_address": "source1zxpftwyqpg2jawrwv7ynrapmlw2j6ryk7fe00k",
+    "amount": "536886358"
+  },
+  {
+    "delegator_address": "source18nehs58d48txh63nnjfjhqzrz62mnuptm8zltt",
+    "amount": "534694705"
+  },
+  {
+    "delegator_address": "source1cp0rkgjllldv5lel5g23pp868wtfe6ak884my8",
+    "amount": "534382083"
+  },
+  {
+    "delegator_address": "source17a24y86qx3sj6rmz6clschp32kzzs4k2s6xuup",
+    "amount": "529066408"
+  },
+  {
+    "delegator_address": "source1jmdzu78p5su55asaep95qkwvkxl2vfs4ljqyvx",
+    "amount": "527057981"
+  },
+  {
+    "delegator_address": "source1qe0uy3mce8nw8uf3jn85tm8lvqy9svpvmpsdk0",
+    "amount": "525321977"
+  },
+  {
+    "delegator_address": "source1s6xayykxqmf0y939reekq5gnxd336hkmlmlgsr",
+    "amount": "515000000"
+  },
+  {
+    "delegator_address": "source1pxnmvwh2eg2gkzatdfnxdl37wjzzr4xyy6m637",
+    "amount": "514786141"
+  },
+  {
+    "delegator_address": "source1p3nf9fhf86qnyxuyes3flt0hg97a60lz7se944",
+    "amount": "505330884"
+  },
+  {
+    "delegator_address": "source1qu7hlk44y4jkm6407kt3q5ns9uewtksj4pqwlg",
+    "amount": "500000000"
+  },
+  {
+    "delegator_address": "source1r9umzg5v8nvczue3l3l65j333p64xkh0p00sxf",
+    "amount": "500000000"
+  },
+  {
+    "delegator_address": "source1ykqfsmrw0uk4fcnycpp60a0cdg0xlsmcfvqasy",
+    "amount": "500000000"
+  },
+  {
+    "delegator_address": "source12sqnxw4n8kqlchey5qj3z7tdlztej56u6m83pp",
+    "amount": "500000000"
+  },
+  {
+    "delegator_address": "source1v2vpx8j033hk5e093me9nlq7k7ydgwzdcl2tpl",
+    "amount": "500000000"
+  },
+  {
+    "delegator_address": "source1d7cg9nfmnx64yy20g7nt5594e4lpsx0x4tguvp",
+    "amount": "500000000"
+  },
+  {
+    "delegator_address": "source1ja86k72hx88v93pryjesh7g4572z5pwgsmjm5l",
+    "amount": "500000000"
+  },
+  {
+    "delegator_address": "source15j7g66x5y99d9kjs0zvkvejgyhpgfaelrpmkyv",
+    "amount": "500000000"
+  },
+  {
+    "delegator_address": "source1hrs4pj7q5pk508lzz9a8fwkjn66egwcf653za4",
+    "amount": "500000000"
+  },
+  {
+    "delegator_address": "source17tkcdc6z6a567tstqaec436gkuv8f890a7hr08",
+    "amount": "500000000"
+  },
+  {
+    "delegator_address": "source170tnmj8qkcr6khs4yeh3h9mtxq8scjg2pexzn7",
+    "amount": "500000000"
+  },
+  {
+    "delegator_address": "source1vemmttg4c0lsqwsdhrjc24ktaahfnh9hpsuuke",
+    "amount": "499292417"
+  },
+  {
+    "delegator_address": "source1al9lg3504mdt48x7t6vy9kle4xdzyxn0v2zkjt",
+    "amount": "497911844"
+  },
+  {
+    "delegator_address": "source126kmawsg2wv998xrjfrdrzfvv3nmdajuc323nn",
+    "amount": "495800000"
+  },
+  {
+    "delegator_address": "source1qsah4thecca6mdak8mf7pkf8upf6hx49km3p2q",
+    "amount": "494554144"
+  },
+  {
+    "delegator_address": "source10xfxnwxzvsrvsvd7mem7esl8lp2w3g4f3c3c8x",
+    "amount": "482994679"
+  },
+  {
+    "delegator_address": "source19yrexd5s8j9eg8lvxtah2y04np8a6lcv5ghqk3",
+    "amount": "481238297"
+  },
+  {
+    "delegator_address": "source12j973x53ptfe4rr4ljnpl0n4js99vs5vvqlywy",
+    "amount": "479218948"
+  },
+  {
+    "delegator_address": "source178gfvn2es4fuv9g84zxtwrf2dfhx57h7yyhz5r",
+    "amount": "475613893"
+  },
+  {
+    "delegator_address": "source1tn9wkfn2qg5kerems5m474zeme77xeufelxdst",
+    "amount": "475544650"
+  },
+  {
+    "delegator_address": "source1y3vpkdxman2la3dttnn2kde29f2nxkzq5dr2vz",
+    "amount": "470000000"
+  },
+  {
+    "delegator_address": "source1y3q2qd2s0zj4wmg3shmjdlxsl6kqn3umz2zggg",
+    "amount": "458745135"
+  },
+  {
+    "delegator_address": "source1myl3wldw67hvlp7lxwv60nfmf9ecp6y4eln8mv",
+    "amount": "455000000"
+  },
+  {
+    "delegator_address": "source1g5rqq9zm8mrjmkuk9alnqzs5d4x7a7ammsmuh4",
+    "amount": "450000000"
+  },
+  {
+    "delegator_address": "source1hr92hv4zn6vgv7z889t5hn74yjm9ewll8hyw59",
+    "amount": "450000000"
+  },
+  {
+    "delegator_address": "source1zkjq87qntx30nxt3h6h2famw6glctzpdh7rdpn",
+    "amount": "449866315"
+  },
+  {
+    "delegator_address": "source14pcd29hqlxjq29hqmeu99xfpxf70hj8wkzu7k0",
+    "amount": "448762499"
+  },
+  {
+    "delegator_address": "source10cp8nm9qt6tk53ndx7k7m9mjkxmeqx3he47ecw",
+    "amount": "447384716"
+  },
+  {
+    "delegator_address": "source1vu8yvcrh508sjj4kxs3wqnhprvucl6aenpxnmh",
+    "amount": "446626546"
+  },
+  {
+    "delegator_address": "source19qqx9g6wz39czhdpj7krtzr3fpfga8q9mq7sc5",
+    "amount": "438886229"
+  },
+  {
+    "delegator_address": "source1clpc4cscsv29hkas9srdyjqkhg0e2kx0h7kdq3",
+    "amount": "429137526"
+  },
+  {
+    "delegator_address": "source1uyjm5xqe8lr6nfryahvww2yx8g37kdqj2p2a9t",
+    "amount": "424997500"
+  },
+  {
+    "delegator_address": "source1d8zzu9r3yrkgdpefksknp2ttzu02ptdzcvcg50",
+    "amount": "424000000"
+  },
+  {
+    "delegator_address": "source1jnjch0x7plesvc3w73y0jkmkyymulx9feugwe9",
+    "amount": "420000000"
+  },
+  {
+    "delegator_address": "source1s4d9uyg6vaw7sca5z3s5hygayummuv5sqypzzt",
+    "amount": "418000000"
+  },
+  {
+    "delegator_address": "source1utltmwk9dxnxxyupawfq35tvy5pj8muy0g6p27",
+    "amount": "417564638"
+  },
+  {
+    "delegator_address": "source1w5svr8h6lc5xckaz9vwcuqhwuvu5gxh5jsk6f5",
+    "amount": "414115943"
+  },
+  {
+    "delegator_address": "source1mfdhapey0mlzpxhh2scvpyzu3ap67hxs8ra3p9",
+    "amount": "413992459"
+  },
+  {
+    "delegator_address": "source15jlja30vqzwdtr99ru3ecw44cq4397a6p5xgq8",
+    "amount": "410000000"
+  },
+  {
+    "delegator_address": "source1634u4m4ucs949avprl77dkf43m99cpdmjma70t",
+    "amount": "407000000"
+  },
+  {
+    "delegator_address": "source1ehum9jll8snkt7lk7406uqlrx6gqkys70lwd8s",
+    "amount": "400000000"
+  },
+  {
+    "delegator_address": "source16z40sdnv4qjzzyuhnu8cchl8gkd7rgap80ed6r",
+    "amount": "400000000"
+  },
+  {
+    "delegator_address": "source17wkd9fxchmh99mr7smfv03yzhu65kyummqxawk",
+    "amount": "400000000"
+  },
+  {
+    "delegator_address": "source12gxncpm2m9thhl56447fv6vwcawd6s3n5u86te",
+    "amount": "399000000"
+  },
+  {
+    "delegator_address": "source1ru9346jkcy762neudmnvuswpnl8jmkten9jv4g",
+    "amount": "397257756"
+  },
+  {
+    "delegator_address": "source1hagljcg6k3u0ya4zs72pyarjqdv0384va6qvpc",
+    "amount": "394416011"
+  },
+  {
+    "delegator_address": "source189pvkapg9myudpg690r003zggsfh7jfy3qntcs",
+    "amount": "390000000"
+  },
+  {
+    "delegator_address": "source17kdjzjep2lq05vta8ejqfrypmcyzr5yaqypf48",
+    "amount": "385390026"
+  },
+  {
+    "delegator_address": "source1x7h0lwmjnnectskc86mrucjrklwk7hhfr0fsen",
+    "amount": "384551058"
+  },
+  {
+    "delegator_address": "source1vxk2869ggxnr364l5lhm2dfdazqfzx0zgmmsep",
+    "amount": "384000000"
+  },
+  {
+    "delegator_address": "source1zwz98z5pquscs2vnud4785k56aayfuh3p9p0h6",
+    "amount": "381813319"
+  },
+  {
+    "delegator_address": "source1dl79kpsd3a9ufmvr233xnvqrq6jt93uwa8zn6h",
+    "amount": "380000000"
+  },
+  {
+    "delegator_address": "source16lzuag0qg07x7vsadu45hwg35cgpr2vjqerpay",
+    "amount": "377735993"
+  },
+  {
+    "delegator_address": "source147cf4ftu4qyp9aa0rdt3jfq820jh8yvdcxlulc",
+    "amount": "372538092"
+  },
+  {
+    "delegator_address": "source1z4j6gud3uldq5zfcswvjnm2syt65njw7clpfl5",
+    "amount": "371468873"
+  },
+  {
+    "delegator_address": "source1ledrcq4up0mcyz7rns850agjh528506tfuyae3",
+    "amount": "369990713"
+  },
+  {
+    "delegator_address": "source1ru766nm54s0y6pg7s20t6xa9s02cj2txvjx4cs",
+    "amount": "369818431"
+  },
+  {
+    "delegator_address": "source1k2syvu9u06xngrn5wnz2lrymtg7t8wg8pey3pk",
+    "amount": "369260182"
+  },
+  {
+    "delegator_address": "source19z6p85qp8uv5krkwener4tdngts6m7kenhjjas",
+    "amount": "367211576"
+  },
+  {
+    "delegator_address": "source16pshc9rrr5kzmq5fs4an9rsndl0nhelc39q07d",
+    "amount": "359057409"
+  },
+  {
+    "delegator_address": "source15spsaq3tqusu5xd3u6jmtmpjh3h5lcmmqt3jmq",
+    "amount": "355759217"
+  },
+  {
+    "delegator_address": "source1lyv3cgtldkcrwahh0xqt6lw4hp28k89mzglnwk",
+    "amount": "355472600"
+  },
+  {
+    "delegator_address": "source1487syfrdqk2txrvmklvzpgs8mlnxdc3u2vcraq",
+    "amount": "353037914"
+  },
+  {
+    "delegator_address": "source1x8zjsn77hgg274zjyqznf8l3wjj9me5s2almek",
+    "amount": "352032164"
+  },
+  {
+    "delegator_address": "source1v5syhrxctj3ck3nw8499pyzekftge6qy007szc",
+    "amount": "351233935"
+  },
+  {
+    "delegator_address": "source1pp5fx32xsry3nuw4canrhuqqf0xh4uhe2lhfw0",
+    "amount": "350000000"
+  },
+  {
+    "delegator_address": "source1gagvd7xj76eflkn2lzxnckv0swxjgfk9dh3dy3",
+    "amount": "350000000"
+  },
+  {
+    "delegator_address": "source1kry0nzgsf8y2tpu2pcffsrkcs93dnn40lsx5lu",
+    "amount": "350000000"
+  },
+  {
+    "delegator_address": "source14y3usgepvcxxs6jkjqwhuyjy6eyhu7rkyjdnmc",
+    "amount": "349382004"
+  },
+  {
+    "delegator_address": "source1zmfh79q6qkwewxtk5ktjadnvpvj9gt9a38eypx",
+    "amount": "347258692"
+  },
+  {
+    "delegator_address": "source1x4pa3s2fxxned8plarvuz0zaxp8c0w80u207v9",
+    "amount": "339397748"
+  },
+  {
+    "delegator_address": "source1d6epjf37w0kv34jv8ygt6dp4e72nmn96630eeq",
+    "amount": "339000000"
+  },
+  {
+    "delegator_address": "source1jlansk5dzdps0yzm75vry070ugfarkqdeqwuw0",
+    "amount": "336765043"
+  },
+  {
+    "delegator_address": "source1hwty4sh7eka7glqtvwemedenhrkpnryt43jp25",
+    "amount": "330000000"
+  },
+  {
+    "delegator_address": "source1uxjn6q65jwnvt3cvwdv5qtpwkk5ty2z9kuj469",
+    "amount": "327907343"
+  },
+  {
+    "delegator_address": "source15hk0www72xsjpdtwtgtn657yywr5w0457fpru9",
+    "amount": "322000000"
+  },
+  {
+    "delegator_address": "source1npquw5czg704mu9d7sgdv07rrmsmgznsftfdey",
+    "amount": "320000000"
+  },
+  {
+    "delegator_address": "source1mefzn4fx59ttgfvh2p8e7rh7qf5h7ynzhqxt7g",
+    "amount": "320000000"
+  },
+  {
+    "delegator_address": "source1uaef7lc3fyf9km0swskdf38vpxevqyh6c4pgqr",
+    "amount": "320000000"
+  },
+  {
+    "delegator_address": "source1hw0czv2f0phx2d5243fffhxml24c384le8tedh",
+    "amount": "319023833"
+  },
+  {
+    "delegator_address": "source1mlawj53xggwzy6v0fpgdycuyfhefswrvn7mdfz",
+    "amount": "313394123"
+  },
+  {
+    "delegator_address": "source132ntgzqxdg5m5c47crp806xypqjkdsmfeypl2a",
+    "amount": "310068208"
+  },
+  {
+    "delegator_address": "source1h6tf2g84mvxqaale03e560xhwg0zud9kvz3lnh",
+    "amount": "310000000"
+  },
+  {
+    "delegator_address": "source1neawwhn97nlnpft80gtk7m6feh745rhyn3jv3h",
+    "amount": "308929161"
+  },
+  {
+    "delegator_address": "source1eah7djz8ryuqdryemmxglukupyhzkqpth2gndk",
+    "amount": "308569677"
+  },
+  {
+    "delegator_address": "source123ypud9e0a7mlmpuy62w2ehvmz67xz6456dqqy",
+    "amount": "307074708"
+  },
+  {
+    "delegator_address": "source1ndkgwj86py6ylvff4pvtj6tmsrafzzgzp0ku9c",
+    "amount": "303390000"
+  },
+  {
+    "delegator_address": "source18fm3v6rzxdwa67d0eh8z9kre67vhntsx3e8h37",
+    "amount": "300049000"
+  },
+  {
+    "delegator_address": "source1rhf2jcheqpqxzmxa2eh437dwx6pyfclkj009u4",
+    "amount": "300000000"
+  },
+  {
+    "delegator_address": "source1xynszxq7pfc7c09n6s0c7hmefn875gu2mrvq8p",
+    "amount": "300000000"
+  },
+  {
+    "delegator_address": "source1fm4q9sc76ejvgkmraawnz6vrytgl24005cpmyc",
+    "amount": "300000000"
+  },
+  {
+    "delegator_address": "source1d0vy7w5ggqvyrrzxqtq4slv4ap95a70x2mpzqw",
+    "amount": "294910092"
+  },
+  {
+    "delegator_address": "source15uznawrptyfsajmapthp9akwxq7ay8hqu7qazd",
+    "amount": "293028850"
+  },
+  {
+    "delegator_address": "source1npda7e0uau7e068lnpq33nztg9szej4z3shksk",
+    "amount": "290000000"
+  },
+  {
+    "delegator_address": "source17dmrthu4peh20r7zvtv4pvf476wkvwz8cs9ehe",
+    "amount": "290000000"
+  },
+  {
+    "delegator_address": "source1vntqukxp0ledtqdjyfjxec930y7ft26whj70ae",
+    "amount": "286000000"
+  },
+  {
+    "delegator_address": "source1t4eeq6e5j4yka75da66lg38cl0kssjht0td7k7",
+    "amount": "280000000"
+  },
+  {
+    "delegator_address": "source137w8w3cszp6u2u8rfjk5a54ycq0fktpgv6t9xl",
+    "amount": "279781278"
+  },
+  {
+    "delegator_address": "source1kec6htd04p0zet677lnlnl82mgyrmssp59akl5",
+    "amount": "279025215"
+  },
+  {
+    "delegator_address": "source1trqvuglsu4787v3wpxc823llx23t0j8f5vs49r",
+    "amount": "270000000"
+  },
+  {
+    "delegator_address": "source15hyyvwyuntpp0tzml40j22e4vc074mmzqk3qf5",
+    "amount": "264000000"
+  },
+  {
+    "delegator_address": "source1kznajast9ruyjmpwkte8jsx7y5sdyvw9prf9yu",
+    "amount": "260000000"
+  },
+  {
+    "delegator_address": "source1ymg9yandxrrh2k6358ktsf9jkph9azmxyxcs7a",
+    "amount": "259910000"
+  },
+  {
+    "delegator_address": "source1ajl2kfddkerlp4msrya4wc0r373g4vtnv45443",
+    "amount": "257550000"
+  },
+  {
+    "delegator_address": "source1qa9n2hntgwtgjrnl2tl5cwn6k5t7wuz6xvdeza",
+    "amount": "257063267"
+  },
+  {
+    "delegator_address": "source1rm2tj0knlrxh9nahrw92rl3zuv2fyvkjv72ngf",
+    "amount": "253122147"
+  },
+  {
+    "delegator_address": "source1m4m9pj4uxxvq4dsrdudcfaa6327tnzznz8pe92",
+    "amount": "253000000"
+  },
+  {
+    "delegator_address": "source16tgy4h3dph64q76stc50dqjk5k6sys35tgsact",
+    "amount": "250000000"
+  },
+  {
+    "delegator_address": "source19d7d7thrvd6fp9ahjgn4jckwynyydfndep5mkg",
+    "amount": "247256459"
+  },
+  {
+    "delegator_address": "source180krdctkrcf7ufh9zxy7pry43964fwkctj6r7g",
+    "amount": "246000000"
+  },
+  {
+    "delegator_address": "source1gzd5mjktsh94d6sg6c0sl8yrux6vgmmem845ly",
+    "amount": "245000000"
+  },
+  {
+    "delegator_address": "source1ge6pj4shl4wtsaf3q45qguhvyv0nx2w80lldjf",
+    "amount": "243000000"
+  },
+  {
+    "delegator_address": "source1nsempd9ljljetpecuyc8m6agh0up8e43qdptgs",
+    "amount": "242500000"
+  },
+  {
+    "delegator_address": "source1rl5sd4f6xt42lrqt547kg3vqtzpuxvmazw8kvw",
+    "amount": "241000000"
+  },
+  {
+    "delegator_address": "source14e6mff3vtdwdkaka7xy0wcaluv3pfnl3m4nyj9",
+    "amount": "241000000"
+  },
+  {
+    "delegator_address": "source172tkkl702yfwvyz88hhyadf8v3wryp2ky26m8n",
+    "amount": "241000000"
+  },
+  {
+    "delegator_address": "source1xjenlyd5rae25k7gzxm2sytptn26nu5un7kkce",
+    "amount": "240000000"
+  },
+  {
+    "delegator_address": "source1y9m6fft7zkmgmr9k22fyqcw69rq59rnetamzfx",
+    "amount": "232328485"
+  },
+  {
+    "delegator_address": "source1p4r5lv6pdchdnxw9ekqjwa08kzefrcrg9ngy32",
+    "amount": "230000000"
+  },
+  {
+    "delegator_address": "source1cphwl7svg7r6vx8969m5dfxcymxs7m8k87guch",
+    "amount": "225000000"
+  },
+  {
+    "delegator_address": "source17f3fkann7lql0gzums6g2gsff3ys64gdxvd7lm",
+    "amount": "222000000"
+  },
+  {
+    "delegator_address": "source14qcuwet84dww9fhe88ltwcs5ssgsm27jdqpd86",
+    "amount": "219565693"
+  },
+  {
+    "delegator_address": "source1fv0uaza50u0f9t2qwas90m0ygucf0958s20xsc",
+    "amount": "217299560"
+  },
+  {
+    "delegator_address": "source1z3gsf0xly3m2u7ye9y8smr4x72uq34v3w4g7gh",
+    "amount": "217000000"
+  },
+  {
+    "delegator_address": "source1dmtvu88r6s4szwuzgyuewxuxd5cmnlgrac0kxl",
+    "amount": "215000000"
+  },
+  {
+    "delegator_address": "source1qly96sy3yklkwv6cf4he5ves4qu8yn58um27zg",
+    "amount": "213720168"
+  },
+  {
+    "delegator_address": "source1x8r05xyhzyg0qs38h8anwu6tj4jpzmfrfcsmgj",
+    "amount": "213200000"
+  },
+  {
+    "delegator_address": "source18hek3kesv03zgq9mxpxrfvf0pz57ms8564mukc",
+    "amount": "210000000"
+  },
+  {
+    "delegator_address": "source1wfwqp447e2kl5hz5nyvzgurrm02tyrfvlstaq0",
+    "amount": "210000000"
+  },
+  {
+    "delegator_address": "source1sgrq7fl0nd7xaucuv78dtflfzcdz9e5xpwe0vn",
+    "amount": "210000000"
+  },
+  {
+    "delegator_address": "source1csxxqz4a7vvtsqva4a7z6c4jm32sj33ssvfm0h",
+    "amount": "209000000"
+  },
+  {
+    "delegator_address": "source1klj589epxc3rx8j3vcg2k807jurhc0p8n9vlaz",
+    "amount": "207097085"
+  },
+  {
+    "delegator_address": "source1e0g45stf08a6u50ja6ygpsdcca8kqs3pdwckcn",
+    "amount": "206000000"
+  },
+  {
+    "delegator_address": "source16nwrg7gge5ayugpw3statqna8l93rlvszky9mv",
+    "amount": "201295408"
+  },
+  {
+    "delegator_address": "source1za6c7xez8wkgt9t5ck850cksmnfw52t7qnk8lr",
+    "amount": "200000000"
+  },
+  {
+    "delegator_address": "source1r8l9plkzxv3d6n0j2w55tcvw5e7vljhezqmzqk",
+    "amount": "200000000"
+  },
+  {
+    "delegator_address": "source1vk55jwuzh868uqtwlzarp2tq2hmfu49awc0s9j",
+    "amount": "200000000"
+  },
+  {
+    "delegator_address": "source1ermc8wk0yqjwfl47xdcn429hz9zm04v0mpqrll",
+    "amount": "200000000"
+  },
+  {
+    "delegator_address": "source1efyypx9wp08m378ts3q9awr2m9dm3u9saz8h5v",
+    "amount": "200000000"
+  },
+  {
+    "delegator_address": "source16cyrapn4udh03r54mznsem8z42vhdksx2qn6ce",
+    "amount": "200000000"
+  },
+  {
+    "delegator_address": "source1mjl6q92vmgtll08j7w3esd09gwkulz44fwr2gn",
+    "amount": "200000000"
+  },
+  {
+    "delegator_address": "source1kfh92p2lswluphu79csdkxft0794wc7een2nwv",
+    "amount": "198000000"
+  },
+  {
+    "delegator_address": "source160k5pjtufc0u24y5g0sdevf20c49e68qzuzjvm",
+    "amount": "191300000"
+  },
+  {
+    "delegator_address": "source1ykdlwv9cak4d974acw559gmnhyv7cw97wkztv2",
+    "amount": "190000000"
+  },
+  {
+    "delegator_address": "source16scs8h2kk54402nmqt0lsrmm5qq404rcenc8cn",
+    "amount": "190000000"
+  },
+  {
+    "delegator_address": "source13epwugeycu9s7cv4h6npsuchvfpsgrrmzduage",
+    "amount": "188000000"
+  },
+  {
+    "delegator_address": "source1ce80gp9gzgvtzr9cd6k0dagzkl49c9t38227cw",
+    "amount": "185575893"
+  },
+  {
+    "delegator_address": "source16n6p2xrmzy03l83jndxzaund43shzj2squmea3",
+    "amount": "175000000"
+  },
+  {
+    "delegator_address": "source1s9l6lgx5ufulhu9ctnfuadut9eg35qywcd37me",
+    "amount": "172206207"
+  },
+  {
+    "delegator_address": "source1sywp39cr8tekc0qm2ftn6tu9mltl8ctdu9r78f",
+    "amount": "170000000"
+  },
+  {
+    "delegator_address": "source1hgaxu7d5ukzgq3krr2tap45rfllex3fzfs2zgp",
+    "amount": "150000000"
+  },
+  {
+    "delegator_address": "source17rnm6j5agawf4gxx52n7nc2ymswu7pfp0p2jzf",
+    "amount": "150000000"
+  },
+  {
+    "delegator_address": "source1yld3jdtaps74w3czdmhgxsjl945j6p3uqnsfl7",
+    "amount": "148508854"
+  },
+  {
+    "delegator_address": "source1h3r6kpjh9ahhxdlcjhhy4jqgtxgg4wy4adl82r",
+    "amount": "143000000"
+  },
+  {
+    "delegator_address": "source1424u2qwgkjtgvg4lvk2sh2vfd75v25p8y5sqrj",
+    "amount": "141000000"
+  },
+  {
+    "delegator_address": "source1ug3ttnd7s5xrfllgdds0lez6n2ed82cx6j3v89",
+    "amount": "140803299"
+  },
+  {
+    "delegator_address": "source1t5ethzjd3ly0ks8nws664xaqhu4lpx6fwce2zu",
+    "amount": "140000000"
+  },
+  {
+    "delegator_address": "source1myhtnd4aghfvt7anv5d5dxnv5540vjsae0me8e",
+    "amount": "140000000"
+  },
+  {
+    "delegator_address": "source1geuhq7gnhpxh0g5mgns0pagflnqhr493keuyqp",
+    "amount": "139000000"
+  },
+  {
+    "delegator_address": "source1cmhz8j3gpuvr4z3u7sqz8l0m77m7t53p8g25ft",
+    "amount": "135375549"
+  },
+  {
+    "delegator_address": "source14tz4ser7h55g5gve55u90s7tqy6qnenm2zxwqs",
+    "amount": "130717865"
+  },
+  {
+    "delegator_address": "source19scvsusyt3vqusvdlqa20zyj53gg093a3emukd",
+    "amount": "126241645"
+  },
+  {
+    "delegator_address": "source1zfv5u4fm2sptsvq48n9h02ctk55xcl57224ej8",
+    "amount": "124000000"
+  },
+  {
+    "delegator_address": "source1kt6np7tum5qfk2v8hr5k5z2wt92gjq5c3vz88g",
+    "amount": "122500000"
+  },
+  {
+    "delegator_address": "source17fymp45rsfn5uelhxfswh46t9e34fu8rnnwa6u",
+    "amount": "122000000"
+  },
+  {
+    "delegator_address": "source1nqfau0tvl3mcd6n98qu7rapn883srlvjr9py85",
+    "amount": "120000000"
+  },
+  {
+    "delegator_address": "source1tn4yr5ge92x03v3t7kdcwps6y6t67kpdun2x2l",
+    "amount": "118500000"
+  },
+  {
+    "delegator_address": "source16le7p5w98402na5vzs3wswjlee0ahmy6ckcj0l",
+    "amount": "118500000"
+  },
+  {
+    "delegator_address": "source1hr5fh22p5y877jurfcrzw4uaq9ezt95646262x",
+    "amount": "116500000"
+  },
+  {
+    "delegator_address": "source1nfh9vmfaxxnqcrkw3gepey6k6ptsnsh4j8alaz",
+    "amount": "115000000"
+  },
+  {
+    "delegator_address": "source1kdq49puwa5pjptxjnldagdc29sm7ghemjg30j5",
+    "amount": "110000000"
+  },
+  {
+    "delegator_address": "source13jzxeex8cqlkzupqnp8aje0ry325me93uks7tk",
+    "amount": "108000000"
+  },
+  {
+    "delegator_address": "source1n47utvgs204vn4rgwtnpl8wkx8uyc5rcls2mfp",
+    "amount": "106330204"
+  },
+  {
+    "delegator_address": "source1yqkst40rjmff855rhnj83n5m3vdn9ue04phyfe",
+    "amount": "105000000"
+  },
+  {
+    "delegator_address": "source1xm24ypxsxl35y5d8pjhh6sk7dg8mvvt946fx28",
+    "amount": "105000000"
+  },
+  {
+    "delegator_address": "source13kaqek3lgyq8uftqhldghp88s6cz4antlz8chc",
+    "amount": "103000000"
+  },
+  {
+    "delegator_address": "source1z024vgu2v80dv0gg64aawnz8kynh3apuww6t5g",
+    "amount": "102730635"
+  },
+  {
+    "delegator_address": "source1u6g3hq2xzuj8lvph067mvvxpd0nkf608sytl0h",
+    "amount": "102000000"
+  },
+  {
+    "delegator_address": "source1zrlgtjw0ytfkz2ve9n83qdzv85aspv23c2cvur",
+    "amount": "101000000"
+  },
+  {
+    "delegator_address": "source1u8pad9dtjk5v36sgyj862hehqmfyuuky23f6j4",
+    "amount": "101000000"
+  },
+  {
+    "delegator_address": "source1q4n3drp6wtsfm8yeejxtxckdthh62c0f5jgcyx",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source1zmyzmdyz8a0g9sg8e52p2lzvd2nyf3lnwvrl0e",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source1rv39yeq0qc4mh54nl3r868kcq65axu7wee0ld5",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source1tvcd8welups8wwgj9jxqpt9027eyzatlnjsmsr",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source1tm60k65drh9qesxv2u9lwxu8x5wpqtd74qc8rx",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source1v8yat5t55mur7vqfccmrwc47zaw0eqfleqrnsp",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source1svfxksrxk6cvgymxctpur3kael0cp7sevyjm4c",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source1j7cm0qhs4tvjpu4fyxd4sqzrhwc892a3etxqrp",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source1nxrk3hdaycfw8ssg8cmc7dd4rmj79e6e3gqejr",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source14cdr3texg6xcrd6qvvfatpqrsaq3ed3svv43al",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source1kldgqq66mu7d9kxuf85rnuxcwl2l04lpynaq38",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source1hp23kzmfkmr7r89yh32ry3wjrs2kgk8y6stuep",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source1e9xsxlwyc7rqqsmpzs3ykyhcsfazr7m4tw385h",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source1ehhtg2pg5h3pcfalpw5hjcksk6ae9fpt3vrgym",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source1e7vra35l6tc3ed7604lvlh2t6ys9j0yxkpmeah",
+    "amount": "100000000"
+  },
+  {
+    "delegator_address": "source1d2mws6788qjl3v7kes7fp6mn5dt3v8fytx45gu",
+    "amount": "92000000"
+  },
+  {
+    "delegator_address": "source1pu0qr2dgyku4ca3s6dlugehjjmwamxtxmkp0dt",
+    "amount": "90000000"
+  },
+  {
+    "delegator_address": "source1frr4pxtk877exkejghfw07lw4eyuql6w407eyc",
+    "amount": "90000000"
+  },
+  {
+    "delegator_address": "source16r6xnvp7rmte33znnqgd7pxgae7k08w8rukksd",
+    "amount": "90000000"
+  },
+  {
+    "delegator_address": "source18ckjkml8aed9glnmt4lgstv45x084s983s7w60",
+    "amount": "79368495"
+  },
+  {
+    "delegator_address": "source10kgpa68cnssamnsrpjhn3q32zj9eyzx9zmcepa",
+    "amount": "72000000"
+  },
+  {
+    "delegator_address": "source1leqvegdger08ha979pqy4epft4eax2fs56yajm",
+    "amount": "70000000"
+  },
+  {
+    "delegator_address": "source1qzu34xw9hh5jndqsex73gydjnr5ck6gjv94h76",
+    "amount": "67666344"
+  },
+  {
+    "delegator_address": "source1sge2adsdszz30ua97ztewfwsnmu7x4guhc6amd",
+    "amount": "67343163"
+  },
+  {
+    "delegator_address": "source1c7xzew7v3wv8wg30267t9qp58qas5tehz65dgy",
+    "amount": "60000000"
+  },
+  {
+    "delegator_address": "source1ham24qh3yukpanqac6eek2qraqj2asd0enum0j",
+    "amount": "55000000"
+  },
+  {
+    "delegator_address": "source1mpu30rm25c845ey6ntyy7k85jwmkam646jxlfg",
+    "amount": "53000000"
+  },
+  {
+    "delegator_address": "source1qeurajjcfl9274349h2ry74yqnw3wlt5tjpqyk",
+    "amount": "51200000"
+  },
+  {
+    "delegator_address": "source15jtsrgcr0krpe20razt5zw6wxqecguvqdh8ylq",
+    "amount": "50100000"
+  },
+  {
+    "delegator_address": "source1x2w86cykqa803l5zeljat2x84k25dt5pewz8nt",
+    "amount": "50000000"
+  },
+  {
+    "delegator_address": "source1fl6yrf0sk80f4cg85svjss480z0jg9d7ppzqks",
+    "amount": "50000000"
+  },
+  {
+    "delegator_address": "source105x4vjqqr5nslysfppsewjzt0w5ef62daxnxl4",
+    "amount": "50000000"
+  },
+  {
+    "delegator_address": "source1kdgnmg7k5gfnlvw9zumteezfh6tqcpmqmrsv36",
+    "amount": "50000000"
+  },
+  {
+    "delegator_address": "source17vdxx6xfmv8tfpuvsmarsa2qemfzk6wqp8u8xe",
+    "amount": "50000000"
+  },
+  {
+    "delegator_address": "source17hrj0pdngfvs8cr8u2pmzl7xu03gjfgm00cxkm",
+    "amount": "50000000"
+  },
+  {
+    "delegator_address": "source14lskljerzdrw0xe7e3p9t4n3xfgrm2arzgpjuj",
+    "amount": "45000000"
+  },
+  {
+    "delegator_address": "source135gfvyr5wgu0ass8thdk29s06dnf34fdhlj44h",
+    "amount": "44509755"
+  },
+  {
+    "delegator_address": "source15xd3nsnlxzhytw4rmnehlhmr3vjshu37z68tyy",
+    "amount": "43074052"
+  },
+  {
+    "delegator_address": "source104kzq58m95kyx67ah8alzl8n468rkfh52asz2u",
+    "amount": "41808625"
+  },
+  {
+    "delegator_address": "source1rrjrg75w7k0r3qv90qp0phemt9plajn555gf5m",
+    "amount": "38027769"
+  },
+  {
+    "delegator_address": "source179sz2t6kqjkd3twehfdz5csjtvz0h56cd92gq3",
+    "amount": "36000000"
+  },
+  {
+    "delegator_address": "source1cknd5algcc66ujwce0x6k0wmzvf8zja2jvv583",
+    "amount": "35526488"
+  },
+  {
+    "delegator_address": "source157xvx4cf4pf0293jw52694vrmvrre3kh777flz",
+    "amount": "24000000"
+  },
+  {
+    "delegator_address": "source1l35fya80j6yanq5a9lralree8w0entyvxcy6eu",
+    "amount": "20719001"
+  },
+  {
+    "delegator_address": "source19g4h644j3z3dd98c0lg0xmjex8axerrgw5fqzs",
+    "amount": "18500000"
+  },
+  {
+    "delegator_address": "source1z56c5nrhjye6wepd2jkpqf3l9lx97sst0mvpe6",
+    "amount": "18000000"
+  },
+  {
+    "delegator_address": "source1tjpp7ljsfdapra5zu5x8nnxz7x4t7h0er4ruz5",
+    "amount": "18000000"
+  },
+  {
+    "delegator_address": "source1gvlven35lf37s9kdh7tnk82p06t2g5htycztta",
+    "amount": "15000000"
+  },
+  {
+    "delegator_address": "source1kqjxvmv7l9wk48a6uwugpas43pklt4umpr753v",
+    "amount": "12805072"
+  },
+  {
+    "delegator_address": "source1pq3x6s7pfjhwhqz5l8rexktluae6xlp8yaw42m",
+    "amount": "10000000"
+  },
+  {
+    "delegator_address": "source1ks6j876cy52jstdujgujfyl45cqk26lwv8su2w",
+    "amount": "9318616"
+  },
+  {
+    "delegator_address": "source1z6guce5rt3wtvefpz29ewtnzvqterdqjysr4lp",
+    "amount": "7000000"
+  },
+  {
+    "delegator_address": "source1thjnwtltdl250wdvz4cjnqkmp43pdqhx0v6zqz",
+    "amount": "4254608"
+  },
+  {
+    "delegator_address": "source1puvsznn7wlrxkf4ulvfeekg2j8nkmmez0dsrdc",
+    "amount": "3624169"
+  },
+  {
+    "delegator_address": "source16hu6p80u4vxuwdtecglxchk3xa6jex6fdtjne4",
+    "amount": "3200073"
+  },
+  {
+    "delegator_address": "source1w46s4elulx70kd45k05tytjej4nwsrzszavtah",
+    "amount": "1000000"
+  },
+  {
+    "delegator_address": "source1sxzu0vz0j5hs86sycdgljepgg88u3y7reaxrqy",
+    "amount": "1000000"
+  },
+  {
+    "delegator_address": "source15erhyp4wrdp576fv589xsgwy57uu3w5r00yzyd",
+    "amount": "997500"
+  },
+  {
+    "delegator_address": "source19mnk7ugav07n5kms2mfslu6a8dkfm9qhagnxsr",
+    "amount": "900000"
+  },
+  {
+    "delegator_address": "source1uhzutgu5xvk4g5p0ytks9pavedca7e2dlsxw0v",
+    "amount": "897500"
+  },
+  {
+    "delegator_address": "source1x70ddy5et3xe8qk04xvfg43ehjh5vysgyphv3j",
+    "amount": "850000"
+  },
+  {
+    "delegator_address": "source1dmzy923gxqfatz9ea68e7d5w07f7tkfz2gun8g",
+    "amount": "773393"
+  },
+  {
+    "delegator_address": "source1t4var3kchah7ghyjekth89vpqv9490eqrjc3s5",
+    "amount": "570636"
+  },
+  {
+    "delegator_address": "source1pruhh5tk27ya8twfee5m55tznk7tkdjvlr5hr3",
+    "amount": "477882"
+  },
+  {
+    "delegator_address": "source1538jcdcc4kxwx53w4k7avpsrr38300cl498630",
+    "amount": "442754"
+  },
+  {
+    "delegator_address": "source1xanyvw2yd9c9kkc45v42saqfhy8dk3yew73f5z",
+    "amount": "375936"
+  },
+  {
+    "delegator_address": "source18mkuwykd46xwypl4262gcpv7fllpgza54maqj3",
+    "amount": "258907"
+  },
+  {
+    "delegator_address": "source1huxpsva8246avy2efnt8ctj72rsfq38aq3aruf",
+    "amount": "230057"
+  },
+  {
+    "delegator_address": "source1shnh6jq6c9gt2uaynzee7eh47806lx9wdn9t9h",
+    "amount": "151013"
+  },
+  {
+    "delegator_address": "source1rgf4dznny6fx60yjwmq27xxs42vl34yl6ajklr",
+    "amount": "79502"
+  },
+  {
+    "delegator_address": "source1vqwyz34d3sm5uljsg52em7juxgwf029rsx5cc0",
+    "amount": "28846"
+  },
+  {
+    "delegator_address": "source1g9z6x9e75falw6m04mw3p2u6n6z5f4s76z6sa2",
+    "amount": "9374"
+  },
+  {
+    "delegator_address": "source1ppzaapdcjdxwuu8eaf86ye82wrw4uav5v5r79z",
+    "amount": "4340"
+  }
+]
