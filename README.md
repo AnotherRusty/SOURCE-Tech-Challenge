@@ -9,5 +9,5 @@ This information should at minimum provide the addresses and amount delegated fo
 
 ## Implementation
  - picked the TC Network validator and got all delegators's info about this validator
- - All results are saved in delegator.json file
+ - All results are saved in delegators.json file
  - Results are sorted by delegator's source amount
